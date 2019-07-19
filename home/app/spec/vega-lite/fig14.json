@@ -1,0 +1,43 @@
+{
+  "repeat": {"column": ["hour", "delay", "distance"]},
+  "spec": {
+    "layers": [
+      {
+        "data": {"url": "data/flights-2k.json"},
+        "transform": {"calculate": [{"field": "hour", "expr": "hours(datum.date)"}]},
+        "select": {
+          "region": {
+            "type": "interval",
+            "project": {"channels": ["x"]},
+            "resolve": "intersect"
+          },
+          "bins": {
+            "type": "point",
+            "project": {"channels": ["x"]},
+            "on": "mousemove",
+            "resolve": "union"
+          }
+        },
+        "mark": "bar",
+        "encoding": {
+          "x": {"field": {"repeat": "column"}, "type": "Q", "bin": {"maxbins": 30}},
+          "y": {"aggregate": "count", "field": "*", "type": "quantitative"},
+          "color": {"value": "steelblue"}
+        }
+      },{
+        "data": {"url": "data/flights-2k.json"},
+        "transform": {
+          "calculate": [{"field": "hour", "expr": "hours(datum.date)"}],
+          "filterWith": ["bins", "region"]
+        },
+        "mark": "bar",
+        "encoding": {
+          "x": {"field": {"repeat": "column"}, "type": "Q", "bin":  {"maxbins": 30}},
+          "y": {"aggregate": "count", "field": "*", "type": "quantitative"},
+          "color": {"value": "goldenrod"}
+        }
+      }
+    ]
+  },
+  "config": {"cell": {"width": 300}}
+}

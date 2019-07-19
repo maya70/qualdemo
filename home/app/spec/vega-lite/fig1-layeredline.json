@@ -1,0 +1,43 @@
+{
+  "data": {"url": "data/weather.csv","formatType": "csv"},
+  "layers": [
+    {
+      "mark": "line",
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal",
+          "timeUnit": "month"
+        },
+        "y": {
+          "field": "temp_max",
+          "type": "quantitative",
+          "aggregate": "mean"
+        },
+        "color": {"field": "location","type": "nominal"}
+      }
+    },
+    {
+      "mark": "line",
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal",
+          "timeUnit": "month"
+        },
+        "y": {
+          "field": "temp_max",
+          "type": "quantitative",
+          "aggregate": "mean"
+        },
+        "color": {"field": "location","type": "nominal"},
+        "detail": {
+          "field": "date",
+          "type": "temporal",
+          "timeUnit": "year"
+        }
+      },
+      "config": {"mark": {"opacity": 0.2}}
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "vconcat": [
+    {
+      "data": {"url": "data/weather.csv","formatType": "csv"},
+      "mark": "line",
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal",
+          "timeUnit": "month",
+          "axis": {
+            "shortTimeLabels": "true"
+          }
+        },
+        "y": {
+          "field": "temp_max",
+          "type": "quantitative",
+          "aggregate": "mean"
+        },
+        "color": {"field": "location","type": "nominal"}
+      }
+    },
+    {
+      "data": {"url": "data/weather.csv","formatType": "csv"},
+      "transform": {"filter": "datum.precipitation > 0"},
+      "mark": "point",
+      "encoding": {
+        "y": {"field": "location","type": "nominal"},
+        "x": {
+          "field": "*",
+          "type": "quantitative",
+          "aggregate": "count"
+        },
+        "color": {
+          "field": "date",
+          "type": "temporal",
+          "timeUnit": "year"
+        }
+      }
+    }
+  ]
+}

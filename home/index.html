@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>QualDash Prototype</title>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/web-animations/2.3.1/web-animations.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
+<script src="https://unpkg.com/muuri@0.6.3/dist/muuri.min.js"></script>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.3/js/bootstrap-select.min.js"> </script>
+
+
+<style>
+html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+.w3-grey-item {
+    height:25px;
+    background-color: grey;
+}
+.myitem{
+    height: 24px;
+
+}
+.tab {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    width: 30%;
+    height: 300px;
+}
+#rightMenu{
+  z-index: 12;
+  display: none;
+}
+/* Style the buttons that are used to open the tab content */
+.tab button {
+    display: block;
+    background-color: inherit;
+    color: black;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current "tab button" class */
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    float: left;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 70%;
+    border-left: none;
+    height: 300px;
+}
+div.tooltip { 
+    position: absolute;     
+    text-align: center;     
+    width: 60px;          
+    height: 28px;         
+    padding: 2px;       
+    font: 12px sans-serif;    
+    background: lightsteelblue; 
+    border: 0px;    
+    border-radius: 8px;     
+    pointer-events: none;     
+}
+div.tooltip-large { 
+    position: absolute;     
+    text-align: center;     
+    width: 60px;          
+    height: 28px;         
+    padding: 2px;       
+    font: 12px sans-serif;    
+    background: lightsteelblue; 
+    border: 0px;    
+    border-radius: 8px;     
+    pointer-events: none;     
+}
+  
+    .field-panel{
+      border-radius: 5px;
+      padding-left: 0px;
+      margin-left: 0px;
+      margin-top: 0px;
+      background-color: red; 
+      height: 100px; 
+    }
+
+    #table-panel{
+      width: 100%;
+    }
+    .popover{
+      max-width: 1000px;
+      width: 350px;
+      min-height: 300px;
+      max-height: 1000px;
+    }
+  .mod_vis{
+    max-height: 400px;
+    max-width: 500px; 
+  }
+  
+.grid {
+  position: relative;
+  min-height: 1000px;
+}
+.item {
+  position: absolute;
+  width: 32%;
+  height: 28%;
+  line-height: 200px;
+  margin: 3px;
+  z-index: 1;
+  text-align: left;
+  border: 1px solid #d3d3d3;
+  border-radius: 10px;
+  padding-bottom: 5px; 
+  background: darkgrey ; 
+  opacity: 0.9;
+  color: #fff;
+  overflow: visible;
+  display: grid;
+    grid-template-columns: 20% 78%;
+    grid-template-rows: 98% 2% ;
+    grid-template-areas: "header header"
+                         "draw control";
+}
+.item.muuri-item-hidden {
+  z-index: 0;
+}
+.item.muuri-item-releasing {
+  z-index: 1000;
+}
+.item.muuri-item-dragging {
+  z-index: 1000;
+}
+.item-content {
+  position: relative;
+  display: inline-block;
+  font-size: 50px;
+  color: white;
+  cursor: pointer;
+  background-color: #f1f1f1;
+  border: 1px solid #d3d3d3;
+  height: 100%;
+  padding-bottom: 3px; 
+  width: 90%;
+  left: 0px;
+  right: 10%;
+  margin-top: 0px;   
+}
+ .draw-area{
+    display: inline-block;
+      
+      height: 98%;
+      width: 100%; 
+      margin-top: 1%;
+      margin-right: 0px;
+      margin-left: 0px; 
+      padding-right: 0px;
+      z-index: 8; 
+     
+    }
+    .control-panel{
+      display: inline-block;
+      width: 15%;
+      height: 70%;
+      margin-top: 1%;
+      margin-bottom: 5%;
+    }
+    .btn-container{
+     
+      height: 100%; 
+      padding-top: 0px; 
+      align-content: top;
+      justify-content: top; 
+    }
+    .control-button{
+      border-radius: 5px;
+    }
+     .form-control{
+      width: 50%;
+      max-height: 20px;
+      margin-top: 1%; 
+      margin-left: 10px;
+      padding: 0; 
+      vertical-align: top; 
+    }
+    .form-header{
+      width: 50%;
+      max-height: 20px;
+      margin-top: 1%; 
+      margin-left: 5px;
+      padding: 0; 
+      vertical-align: top; 
+    }
+    .form-inline{
+      max-height: 40px;
+      min-height: 36px; 
+      padding-top: 0px;
+      padding-bottom: 0px;
+      margin-top: 0px;
+      margin-bottom: 0px; 
+      vertical-align: top;
+    }
+    .form-group{
+      max-height: 40px;
+      vertical-align: top;
+      margin-left: 20%;
+      padding-left: 2%; 
+    }
+    .form-label{
+       text-align: right;
+      clear: both;
+       float:left;
+      margin-right:15px;
+      margin-left: 15px;
+      margin-top: 5px;
+      font-size: 12pt;
+      color: black;
+    }
+    
+.item.muuri-item-dragging .item-content {
+  background: darkgrey;
+  
+}
+.item.muuri-item-releasing .item-content {
+  background: lightgrey;
+ 
+}    
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+  color: black;
+  font-weight: bold;  
+  background-color: #eee; 
+}
+.nav-tabs>li{
+  display: inline-block;
+}
+.nav>li{
+  display: inline-block;
+}
+
+.tab-content{
+  max-height: inherit; 
+}
+
+.page-content{
+  max-height: 500px; 
+}
+.topright-panel{
+  margin-left: 2px; 
+  margin-top: 5px; 
+  margin-bottom: 5px; 
+  margin-right: 5px; 
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+#b11{
+  margin-right: 20px; 
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+#tabCanvas{
+   min-width: 600px;
+  overflow: hidden;
+}
+#tableTabs{
+  min-height: 50px;
+}
+
+.expansion-canvas{
+  min-height: 600px;
+  min-width: 600px;
+  background-color: green; 
+}
+#navTabs {
+  white-space: nowrap;
+  display:block!important;
+  flex-wrap: nowrap;
+  max-width: 100%;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  
+}
+svg{
+  display: inline-block;
+}
+.g-hed {
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size:12px; 
+    margin: 3px 0;
+  }
+
+  .g-source-bold {
+    text-align: left;
+    font-size:10px;
+    font-weight: bold; 
+  }
+
+  .g-source {
+    margin: 10px 0;
+  }
+
+  .g-source-bold {
+    text-align: left;
+    font-size:10px; 
+  }
+
+  .g-intro {
+    font-size: 16px;
+    margin: 0px 0px 10px 0px;
+  }
+
+  .g-labels {
+    font-family: 'Proxima-Nova', sans-serif;
+    fill: white;
+    font-weight: bold;
+    font-size: 10px;
+  }
+
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+  }
+
+  .area {
+    fill: none;
+  }
+
+  .line {
+    fill: none;
+    stroke: #8ba5be;
+    stroke-width: 1.5px;
+  }
+  .ssvgt{
+    overflow-y: scroll;
+  }
+
+  .dot {
+    fill: white;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+  }
+  g text {
+    font-size: 12px;
+  }
+  .x.axis1 .tick:first-child text{
+    display: none;
+  }
+  .x.axis2 .tick:nth-last-child() text{
+    display: none;
+  }
+  .loader {
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+#loader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  width: 150px;
+  height: 150px;
+  margin: -75px 0 0 -75px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+</style>
+
+</head>
+<body class="w3-light-grey" onresize="refreshLayout();" onload="loadFunction(); ">
+
+
+      <!-- Content for Popover #1 -->    
+<div id="a1" class="hidden">
+    <div class="popover-heading">Category Management</div>
+    
+    <div class="popover-body" id="cat-popover">
+    <!--button class="w3-button w3-black w3-xlarge" onclick="helloWorld()">Click ME</button-->
+     <input type="button" class="btn_vg_parse hide-vl" value="Add grouping" id="group0" onclick="addGroup(this.id)"></input>
+     <input type="button" class="btn_vg_parse hide-vl" value="Toggle view" id="toggle0" onclick="toggleBars(this.id)"></input>
+    </div>
+</div>   
+    
+<!-- Content for Popover #2 -->
+<div id="a2" class="hidden">
+    <div class="popover-heading">This is the heading for #2</div>
+    
+    <div class="popover-body">
+       <div class="popover-content"> 
+          <svg height="500" width="500">
+  <circle cx="100" cy="100" r="40" stroke="black" stroke-width="3" fill="red" />
+</svg>
+       </div>    
+    </div>
+</div>    
+ 
+
+<!-- Top container -->
+<div class="w3-bar w3-top w3-white w3-large" style="z-index:4; max-height: 45px; display: inline-block; ">
+  <img src="img/logo.jpg" class=" w3-margin-right" style="width:46px; position: relative; margin-left: 0px; margin-top: -40px;">
+  <!--button class="w3-button w3-black w3-xlarge" onclick="w3_open()" style="vertical-align: top;">☰</button-->
+  <!--button class="w3-bar-item w3-button w3-hide-large w3-hover-none w3-hover-text-light-grey" onclick="w3_open();"><i class="fa fa-bars"></i>  Menu</button-->
+
+  <!-- Header -->
+  <header class="w3-container w3-medium" style="padding-top:6px; padding-bottom: 0px; display:inline-block; ">
+    <ul id="navTabs" class="nav nav-tabs" style="width: 100%; max-height: 45px;   max-height: 45px; ">
+      <li class="active nav-item px-1"><a class="nav-link" data-toggle="tab" href="#home" style="display:inline-block;">Home</a></li>
+      <li class="nav-item px-1" ><a class="nav-link" data-toggle="tab" href="#tabCanvas" style="display:inline-block;">Tabular View</a></li>
+      <!--li class="nav-item"><a data-toggle="tab" href="#can2">Database Status</a></li-->
+      <!--li class="nav-item px-1"><a class="nav-link" data-toggle="tab" href="#expPlaceHolder" style="display: inline-block;">>></a></li-->  
+      <li><p style="padding-top:10px; font-weight: bold; color: red;"> Note: Simulated data only  </p> </li>
+    </ul>
+    
+  </header>
+         <div class="w3-bar w3-border w3-card-4 w3-light-grey w3-right" style="max-width: 130px; display: inline; margin-top: 5px; ">
+            <button class="w3-button w3-light-grey w3-small w3-right w3-round topright-panel" onclick="openRightMenu()">Data Quality</button>
+          </div>
+  
+      <div class="w3-bar w3-border w3-card-4 w3-light-grey w3-right" style="width: 200px; display: inline; margin-top: 5px; ">
+           <button class="w3-button w3-light-grey w3-small w3-right w3-round  w3-border-right  w3-border-left topright-panel" id="b11" onclick="layout1x1()">1x1</button>
+           <button class="w3-button w3-light-grey w3-small w3-right w3-round  w3-border-right w3-border-left topright-panel" id="b22" onclick="layout2x3()">2x2</button>
+           <button class="active w3-button w3-light-grey w3-small w3-right w3-round  w3-border-right w3-border-left topright-panel" id="b32" onclick="layout3x2()">2x3</button>
+          <!--a class="w3-button w3-light-grey w3-small w3-right w3-round  topright-panel">Layouts:</a-->
+
+      </div>
+
+</div>
+
+<!-- Sidebar/menu -->
+<!--nav class="w3-sidebar w3-collapse w3-white w3-animate-left" style="z-index:3;width:240px;" id="mySidebar"><br-->
+<!--div class="w3-sidebar w3-bar-block w3-border-right" style="display:none" id="mySidebar">
+  <button onclick="w3_close()" class="w3-bar-item w3-large">Hide &times;</button>
+  <div class="w3-container w3-row">
+    <div class="w3-col s4">
+      <img src="img/logo.jpg" class=" w3-margin-right" style="width:46px">
+    </div>
+    <div class="w3-col s8 w3-bar">
+      <span>Welcome, <strong>Mai</strong>
+        <a href="#" class="w3-bar-item w3-button"><i class="fa fa-user"></i> Profile</a>       
+      </span>
+      
+      
+      
+    </div>
+  </div>
+  <hr>
+  <div class="w3-container">
+   
+  </div>
+  <div class="w3-bar-block">
+    <a href="#" class="w3-bar-item w3-button w3-padding-16 w3-hide-large w3-dark-grey w3-hover-black" onclick="w3_close()" title="close menu"><i class="fa fa-remove fa-fw"></i>  Close Menu</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding w3-blue"><i class="fa fa-users fa-fw"></i>  Overview</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bell fa-fw"></i>  Alerts</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-object-group fa-fw"></i>  Canvas</a>
+    
+    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-diamond fa-fw"></i>  Save Session</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-pencil-square-o fa-fw"></i>  New report</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-file-pdf-o fa-fw"></i>  Export to PDF</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-file-word-o fa-fw"></i>  Export to Word</a>    
+    
+    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bank fa-fw"></i>  Data Governance</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-history fa-fw"></i> Query History</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-cog fa-fw"></i>  Settings</a><br><br>
+  </div>
+   
+</div-->
+<div class="w3-sidebar w3-bar-block w3-card w3-animate-right" style="right:0;" id="rightMenu">
+  <button onclick="closeRightMenu()" class="w3-bar-item w3-button w3-medium">Hide &times;</button>
+  <div class="w3-container" id="quality-div">
+    <h4>% Missing values</h4>
+    <p>Loading...</p>
+    <!--div class="w3-grey-item" id="item1">
+      <div class="w3-container w3-center w3-padding w3-green myitem" style="width:75%">75%</div>
+    </div>
+
+    <p>Age</p>
+    <div class="w3-grey-item">
+      <div class="w3-container w3-center w3-padding w3-orange myitem" style="width:50%">50%</div>
+    </div>
+
+    <p>Comorbidities</p>
+    <div class="w3-grey-item">
+      <div class="w3-container w3-center w3-padding w3-red myitem" style="width:35%">35%</div>
+    </div-->
+  </div>
+</div>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- !PAGE CONTENT! -->
+<div id="main" class="w3-main" style="margin-left:0px;margin-top:43px;">
+
+<div class="w3-row-padding w3-margin-bottom page-content">
+    
+<div class="w3-row-padding w3-margin-top page-content">
+ 
+<div id="tabsParent" class="tab-content">
+ <div id="home" class="tab-pane fade in active">
+  <div class="w3-panel">
+    <!--div class="w3-row-padding" id= "mainCanvas" style="margin:0 -16px; min-height: 700px;">
+    </div-->
+    <h1 class="loadermsg" style="text-align: center;"> Please wait while QualDash loads Audit Data </h1>
+    <div class="loader" id="loader"></div>
+    <div class="grid" id="mainCanvas">
+        
+    
+    </div>
+   </div>
+ </div> 
+ <div id="tabCanvas" class="tab-pane fade"> 
+   <ul class="nav nav-tabs" id="tableTabs">
+
+    </ul>  
+    <div id="tableContents"> </div>
+ </div> 
+
+<div id="expPlaceHolder" class="expansion-canvas tab-pane fade">   
+ </div> 
+
+</div>
+
+</div>
+
+ 
+<canvas id="canvas" width="1000px" height="600px" style="visibility: hidden;"></canvas>
+  <!-- Footer >
+  <footer class="w3-container  w3-light-grey w3-center" style="width: 100%; align-content: : left;">
+    <span class="w3-bar-item" > QualDash &copy </span> 
+  </footer-->
+</div>
+
+  <!-- End page content -->
+</div>
+
+
+ <!--script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+   <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+   <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"-->
+
+<script>
+
+
+
+// Get the Sidebar
+var mySidebar = document.getElementById("mySidebar");
+
+// Get the DIV with overlay effect
+var overlayBg = document.getElementById("myOverlay");
+
+var cat_count = 0; 
+
+
+function tableFunction(id) {
+  var x = document.getElementById(id);
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+function toggleBars(displayId){
+  $Q.mainControl.toggleBars(displayId); 
+}
+//$(".draggablediv").resizable(
+ // ); 
+function footerFunction(id) {
+  var x = document.getElementById(id);
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+$('body')
+  .on('mousedown', '.popover', function(e) {
+    //console.log("clicked inside popover")
+    //e.preventDefault()
+  });
+function w3_open() {
+  document.getElementById("main").style.marginLeft = "25%";
+  document.getElementById("mySidebar").style.width = "25%";
+  document.getElementById("mySidebar").style.display = "block";
+  //document.getElementById("openNav").style.display = 'none';
+}
+function w3_close() {
+  document.getElementById("main").style.marginLeft = "0%";
+  document.getElementById("mySidebar").style.display = "none";
+  //document.getElementById("openNav").style.display = "inline-block";
+}
+function openRightMenu() {
+    document.getElementById("rightMenu").style.display = "block";
+}
+function closeRightMenu() {
+    document.getElementById("rightMenu").style.display = "none";
+}
+
+function layout2x3() {
+  var cards = d3.selectAll(".item"); 
+  console.log($("#mainCanvas").css("height"));
+
+  cards.each(function(){
+    console.log($(this).css("width")); 
+    $(this).css("width", "46%");
+    $(this).css("height", "300px");
+  });
+ $Q.mainControl.refreshGrid32x23('2x2'); 
+}
+
+function layout3x2() {
+  console.log($("#mainCanvas").css("height"));
+  var cards = d3.selectAll(".item"); 
+  cards.each(function(){
+    console.log($(this).css("width")); 
+    $(this).css("width", "32%");
+    $(this).css("height", "300px");
+  });
+ $Q.mainControl.refreshGrid32x23('2x3'); 
+}
+
+function layout1x1() {
+  //console.log($("#mainCanvas").css("height"));
+  var cardObjects = $Q.mainControl.getDataViews();
+  //console.log(cardObjects); 
+  /*
+  var tabContainer = document.getElementById("navTabs"); //d3.select("#navTabs");
+
+  cardObjects.forEach(function(obj, id){
+    var newItem = document.createElement("LI");
+        newItem.setAttribute("class", "nav-item px-1")
+        newItem.setAttribute("style", "display: inline-block")
+    var anchor = document.createElement("a");
+    var node = document.createTextNode(obj['metricLabel']);
+        anchor.appendChild(node);
+        anchor.setAttribute("class", "nav-link"); 
+        anchor.setAttribute("id", "newtab"+id); 
+        anchor.setAttribute("href", "#modal-one");
+        newItem.appendChild(anchor);
+    tabContainer.insertBefore(newItem, tabContainer.childNodes[tabContainer.childNodes.length-2]); 
+    /* console.log(obj['metricLabel']);
+      tabContainer.append("li")
+        .attr("class","nav-item").append("a")
+              .attr("data-toggle", "tab")
+              .attr("href", "#expPlaceHolder")
+              .text(obj['metricLabel']);
+  });*/
+  
+  var cards = d3.selectAll(".item"); 
+  cards.each(function(){
+    console.log($(this).css("width")); 
+    $(this).css("width", "95%");
+    $(this).css("height", "700px");
+  });
+ //$Q.mainControl.refreshGrid(); 
+ $Q.mainControl.refreshGrid1x1(); 
+}
+
+function refreshLayout() {  
+ $Q.mainControl.refreshGrid();  
+}
+function loadFunction() {
+  closeRightMenu(); 
+}
+function openCity(evt, cityName) {
+    // Declare all variables
+    var i, tabcontent, tablinks;
+
+    // Get all elements with class="tabcontent" and hide them
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+
+    // Get all elements with class="tablinks" and remove the class "active"
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    // Show the current tab, and add an "active" class to the link that opened the tab
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+
+
+</script>
+
+
+
+<!-- vega libraries-->
+<!--link rel="stylesheet" type="text/css" href="app/editor.css"/>
+    <script src="vendor/topojson.js"charset="utf-8"></script>
+    <script src="vendor/d3.min.js" charset="utf-8"></script>
+    <script src="vendor/d3.geo.projection.min.js" charset="utf-8"></script>
+    <script src="vendor/d3.layout.cloud.js" charset="utf-8"></script>
+    <script src="vendor/ace/ace.js" charset="utf-8"></script>
+    <script src="vendor/vega.js" charset="utf-8"></script>
+    <script src="vendor/vega-embed.js" charset="utf-8"></script>
+    <script src="vendor/vega-lite.js" charset="utf-8"></script>
+    <script src="vendor/json3-compactstringify.js" charset="utf-8"></script>
+    <script>
+      JSON3 = JSON3.noConflict();
+    </script>
+    <script src="app/vega-specs.js" charset="utf-8"></script>
+    <script src="app/vl-specs.js" charset="utf-8"></script>
+    <script src="app/editor.js" charset="utf-8"></script>
+     <script> ved.init('#draw-area-1', 'app/'); </script-->
+<!-- end vega libraries -->  
+
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3-color.v1.min.js"></script>
+<script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://d3js.org/d3-geo.v1.min.js"></script>
+
+<!-- Canvg and dependencies to save PNG from visualizations -->
+<!-- for info see: https://github.com/canvg/canvg -->
+<script src="https://cdn.jsdelivr.net/npm/rgbcolor@^1/index.js"></script>
+<!-- Optional if you want blur -->
+<script src="https://cdn.jsdelivr.net/npm/stackblur-canvas@^1/dist/stackblur.min.js"></script>
+<!-- Main canvg code -->
+<script src="https://cdn.jsdelivr.net/npm/canvg/dist/browser/canvg.min.js"></script>
+
+<script>
+
+var drag = d3.drag();
+
+</script>
+<script type="text/javascript" src="js/util.js"></script>
+<script type="text/javascript" src="js/config_mss.js"></script>
+<script type="text/javascript" src="js/config_variableDesc.js"></script>
+<script type="text/javascript" src="js/config_dataDefs.js"></script>
+<script type="text/javascript" src="js/model.js"></script>
+<script type="text/javascript" src="js/vBar.js"></script>
+<script type="text/javascript" src="js/vLine.js"></script>
+<script type="text/javascript" src="js/vPie.js"></script>
+<script type="text/javascript" src="js/vSubPie.js"></script>
+<script type="text/javascript" src="js/vSubBar.js"></script>
+<script type="text/javascript" src="js/vSubTime.js"></script>
+<script type="text/javascript" src="js/vSubScatter.js"></script>
+<script type="text/javascript" src="js/vCard.js"></script>
+<script type="text/javascript" src="js/mainView.js"></script>
+<script type="text/javascript" src="js/control.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+
+</body>
+</html>

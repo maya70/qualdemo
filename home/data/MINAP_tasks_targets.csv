@@ -1,0 +1,47 @@
+Metric,Level 1,Level 2,Level 3,Level 4,Target1,Target2,Target3
+admission,,,,What are the age groups for patients ,distribution,na,na
+admission,,,,What is the primary diagnosis for patients?,distribution,na,na
+admission,,,,how many cases has each clinician done?,distribution,na,na
+admission,,,,Compare actual events to expected events given case mix,distribution,proportion,na
+admission,What is the numer of primaries (STEMI) per month? ,,,,trend,na,na
+admission,How many admissions in a particular time period?,,,,trend,na,na
+admission,,,,What is the percentage of patients with MI who have been seen by a cardiologist per month?,trend,proportion,na
+admission,,,,What is the trend of emergency / elective / urgent admissions?,trend,proportion,na
+admission,,,,When did patient arrive in hospital?,value,na,na
+admission,,,,How many patients are currently in the system (pressure on unit)? ,value,na,na
+benchmark,,,,"Compare teatment times (call-to-door, call-to-balloon) with other trusts in region",distribution,value,na
+benchmark,,,,what is the number of follow-up appointements (cardiology) in own trust versus other trusts in region?,distribution,value,na
+complication,,,,How do patients' GRACE scores relate to timining of angiography? ,association,na,na
+complication,,,,How many complications in patients for each clinician? ,distribution,na,na
+CTB,,,,"For non-STEMI patients, what is the average time to angiography?",distribution,na,na
+CTB,,,,What is the current wait time to go to the cath lab?,distribution,na,na
+CTB,,,,How quickly did the hospital get patients to the lab in relation to target benchmark?,distribution,na,na
+CTB,,,,"Of STEMI patients that did not meet the CTB target, which patients were direct / indirect admission?",distribution,proportion,na
+CTB,,,,Compare the distribution/median/average of the CTB for own site versus district,distribution,value,na
+CTB,,,,Compare the distribution/median/average of the CTB for own site versus national average,distribution,value,na
+CTB,,,,Which of the primaries have not met the target benchmark of call-to-balloon time? ,object,na,na
+CTB,,,,What is the patient pathway / journey? ,trend,proportion,na
+CTB,,,,What is the percentage of patients having an angiogram per month?,trend,proportion,na
+CTB,,,,"For cases that did not meet the target, where did they come from?",value,na,na
+dataQuality,,,,What data are missing from audit?,distribution,na,na
+dataQuality,,,,exclusion criteria to exlude some patients (e.g. if patient's symptoms started days before the call then judging response from time of call is inappropriate),distribution,outlier,na
+delays,,,,Are delays justified? ,distribution,na,na
+delays,,,,Identify an hour's delay in getting and ECG in A&E,object,na,na
+discharge,,,,What is the percentage of patients discharged on correct medication per year? ,trend,proportion,na
+DTB,,,,"For STEMI patients, what was the door to balloon time on a monthly basis? ",trend,proportion,na
+intervention,,,,"How many people are smokers, get smoking cessation advice, etc? ",distribution,na,na
+intervention,,,,Does a unit with an outlier proportion of patients receiving gold standard treatment have limited resources (e.g. less cardiologists)? ,object,proportion,distribution
+intervention,,,,Does a unit with an outlier proportion of patients receiving gold standard treatment have a case mix with more patients that aren't fit for the intervention?,object,proportion,distribution
+intervention,,,,"For a patient who didn't receive the gold standard drug, is it because there is a contraindication or because blood pressure was low os some other reason? ",object,value,na
+intervention,,,,What treatements did a patient receive?,object,value,na
+intervention,,,,What is the proportion of patients that get primary coronary angioplasty within recommended time (72 hours) compared to other trusts?,proportion,distribution,na
+intervention,,,,Is the proportion of patients receiving gold standard primary interventions similar at own trust to other places?,proportion,distribution,na
+intervention,,,,What proportion of patients were given an echo (or treatment) in a time period?,trend,proportion,na
+intervention,,,,When did patient receive different treatments?,trend,value,na
+LOS,,,,What is the length of stay in a time period?,trend,na,na
+mortality,,,,Are patients alive or dead?,distribution,na,na
+mortality,,,,What is the life and death status 30 days after leaving the hospital?,trend,proportion,na
+mortality,,,,What is the mortality for heart attacks on a monthly basis?,trend,proportion,na
+referrals,,,,"for periods with low percentages of patients who have been seen by a cardiologist, what is the referral pathway?",object,trend,na
+referrals,,,,what are the referral patterns from referring units? ,trend,distribution,na
+referrals,,,,What is the number of referrals per month?,trend,na,na

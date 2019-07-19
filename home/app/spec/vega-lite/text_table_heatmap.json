@@ -1,0 +1,15 @@
+{
+  "data": {"url": "data/cars.json"},
+  "facet": {
+    "row": {"field": "Origin", "type": "ordinal"},
+    "column": {"field": "Cylinders", "type": "ordinal"}
+  },
+  "spec": {
+    "mark": "text",
+    "encoding": {
+      "color": {"aggregate": "mean", "field": "Horsepower", "type": "quantitative"},
+      "text": {"aggregate": "count", "field": "*", "type": "quantitative"}
+    }
+  },
+  "config": {"mark": {"applyColorToBackground": true}}
+}

@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html>
+<title>Welcome to QualDash</title>
+<link rel="shortcut icon" type="image/x-icon" href="home/favicon.ico" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background-image: url('/w3images/forestbridge.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.container-default {
+  text-align: center;
+}
+#inner {
+  display: inline-block;
+}
+#start-but {
+  width: 40%;
+  height: 10%;
+  margin-top: 50px; 
+  font-size: 32pt; 
+}
+
+body {
+  background-color: black; 
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password], input[type=select], select  {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+/* Center the image and position the close button */
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+  position: relative;
+}
+
+img.avatar {
+  width: 40%;
+  border-radius: 50%;
+}
+
+.container {
+  width: 48%;
+  padding: 16px;
+  display: inline-block;
+  *display: inline; zoom: 1; vertical-align: top; font-size: 12px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  padding-top: 60px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button (x) */
+.close {
+  position: absolute;
+  right: 25px;
+  top: 0;
+  color: #000;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: red;
+  cursor: pointer;
+}
+
+/* Add Zoom Animation */
+.animate {
+  -webkit-animation: animatezoom 0.6s;
+  animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+  from {-webkit-transform: scale(0)} 
+  to {-webkit-transform: scale(1)}
+}
+  
+@keyframes animatezoom {
+  from {transform: scale(0)} 
+  to {transform: scale(1)}
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+  
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+
+    width: 100%; 
+}
+#message{
+  width: 100%;
+  height: 90%;
+}
+#launchbtn{
+  width: 70%;
+  margin-left: 10%;
+}
+
+</style>
+<body>
+
+<div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+  <div class="w3-display-topleft w3-padding-large w3-xlarge">
+    
+  </div>
+  <div class=container-default>
+  <div class="w3-display-middle" id="inner">
+    <img src="home/img/logo.jpg" class=" w3-margin-right" style="width:100px">
+    <h1 class="w3-jumbo w3-animate-top">Welcome to QualDash</h1>
+    <hr class="w3-border-grey" style="margin:auto;width:40%">
+    <button id="start-but" onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Click to Get Started</button>
+  </div>
+  </div>
+  
+</div>
+
+<div id="id01" class="modal">
+  
+  <form class="modal-content animate" action="/action_page.php">
+   <div class="parent">
+    <div class="container">
+      <label for="audit"><b>Select Audit:</b></label>
+      <!--input type="select" placeholder="Enter Audit" name="audit" required-->
+      <select name="audit" onchange="populateYears(this, getElementById('year-sel'))" required>
+        <option value="" disabled selected> Please select audit to be loaded in QualDash </option> 
+        <option value="picanet"> PICANet </option>
+        <option value="minap"> MINAP </option>
+      </select>
+
+      <label for="year"><b>Select Year:</b></label>
+      <!--input type="select" placeholder="Enter Year" name="year" required-->
+      <select name="year" id="year-sel" required>
+        <option value="" disabled selected> Please select year of data to be loaded in QualDash </option> 
+        
+      </select>
+
+      <label for="year"><b>Your job Title:</b></label>
+      <input type="select" placeholder="Enter job Title" name="title" required>
+     
+
+        
+     
+      <!--a href="http://google.com" class="button">Go to Google</a-->
+     
+    </div>
+
+    <div class="container" style="background-color:#f1f1f1">
+       <label><b>Notice on data collection:</b></label>
+      <textarea id="message" rows="8" cols="50" disabled="true">
+        QualDash collects three types of usage data to inform the evaluation of the software. (1) The data you enter on this form. (2) The start and end date/time of a session. (3) Interactions (e.g., mouse clicks) during a session that show how the software was used. If you have any questions or concerns regarding the collected data and its use, please contact one of the QualDash team members ***email***.
+    </textarea>
+     <!--label>
+        <input type="checkbox" checked="checked" name="remember"> I agree. 
+      </label-->
+     
+    </div>
+
+    <div class="controls">
+       <button type="submit" id="launchbtn" formaction="home/">Launch QualDash</button>
+      <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+     
+     
+      
+    </div>
+    
+   
+     
+ 
+  </div>
+
+  </form>
+</div>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+// Get the modal
+var modal = document.getElementById('id01');
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+
+function populateYears(list1, list2){
+    var auditPath = (list1.value === "picanet")? "./home/data/picanet_admission/" : "./home/data/minap_admission/";
+    var yearfile = auditPath + "avail_years.csv";
+    d3.csv(yearfile, function(error, yearData){
+      if(error){
+
+      }
+      else{
+        list2.options.length = 0; 
+        for(var i =0; i < yearData.length; i++){
+          createOption(list2, yearData[i]['x'], yearData[i]['x']); 
+        } 
+
+        sortSelect(list2);  
+      }
+
+    }); 
+
+  
+}
+
+function createOption(ddl, text, value) {
+  var opt = document.createElement('option');
+  opt.value = value;
+  opt.text = text;
+  ddl.options.add(opt);
+}
+
+function sortSelect(elem) {
+    var tmpAry = [];
+    // Retain selected value before sorting
+    var selectedValue = elem[elem.selectedIndex].value;
+    // Grab all existing entries
+    for (var i=0;i<elem.options.length;i++) tmpAry.push(elem.options[i]);
+    // Sort array by text attribute
+    tmpAry.sort(function(a,b){ return (a.text < b.text)?-1:1; });
+    // Wipe out existing elements
+    while (elem.options.length > 0) elem.options[0] = null;
+    // Restore sorted elements
+    var newSelectedIndex = 0;
+    for (var i=0;i<tmpAry.length;i++) {
+        elem.options[i] = tmpAry[i];
+        if(elem.options[i].value == selectedValue) newSelectedIndex = i;
+    }
+    elem.selectedIndex = newSelectedIndex; // Set new selected index after sorting
+    return;
+}
+
+</script>
+
+</body>
+</html>

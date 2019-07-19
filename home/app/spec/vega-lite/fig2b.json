@@ -1,0 +1,10 @@
+{
+  "data": {"url": "data/weather.csv","formatType": "csv"},
+  "mark": "point",
+  "encoding": {
+    "x": {"field": "temp_max","type": "quantitative","bin": true},
+    "y": {"field": "wind","type": "quantitative","bin": true},
+    "size": {"field": "*","aggregate": "count"},
+    "color": {"field": "location","type": "nominal"}
+  }
+}

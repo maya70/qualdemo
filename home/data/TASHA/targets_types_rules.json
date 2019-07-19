@@ -1,0 +1,16 @@
+/** Rules for mapping targets to data types
+ *  Each target stores an array of numbers and 0's 
+ *  marking the requirement of a data type
+ *  or aggregator in the corresponding task
+ *  NOTE: a 0 value means a type is optional
+ *  it may still exist but it is not required
+ *  The order of types in the arrays is: 
+ *  			 [q, t, n, o, agg]
+ **/
+{"trend":        [1, 1, 0, 0, 0],
+ "distribution": [1, 0, 1, 0, 1],
+ "outlier": 	 [1, 0, 0, 0, 0],
+ "proportion":	 [1, 0, 1, 0, 0], 
+  "value": 		 [0, 0, 0, 0, 0],
+  "object": 	 [0, 0, 0, 0, 0], 
+  "association": [2, 0, 0, 0, 0]}

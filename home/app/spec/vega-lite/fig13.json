@@ -1,0 +1,24 @@
+{
+  "repeat": {"column": ["hour", "delay", "distance"]},
+  "spec": {
+    "select": {
+      "region": {
+        "type": "interval",
+        "project": {"channels": ["x"]},
+        "resolve": "intersect_others"
+      }
+    },
+    "data": {"url": "data/flights-2k.json"},
+    "transform": {
+      "calculate": [{"field": "hour", "expr": "hours(datum.date)"}],
+      "filterWith": "region"
+    },
+    "mark": "bar",
+    "encoding": {
+      "x": {"field": {"repeat": "column"}, "type": "Q", "bin": {"maxbins": 30}, "scale": {"zero": true}},
+      "y": {"aggregate": "count", "field": "*", "type": "quantitative"},
+      "color": {"value": "steelblue"}
+    }
+  },
+  "config": {"cell": {"width": 300}, "background": "white"}
+}

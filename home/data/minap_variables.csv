@@ -1,0 +1,653 @@
+Field number,Field Name,name,code,text
+1.01,Hospital identifier,1.01 Hospital identifier,,
+1.02,Patient case record number,1.02 Patient case record number,,
+1.03,NHS number,1.03 NHS number,,
+1.04,Patient surname,1.04 Patient surname,,
+1.05,Patient forename,1.05 Patient forename,,
+1.06,Patient date of birth,1.06 Patient date of birth,,
+1.07,Patient gender,1.07 Patient gender,,
+,, ,0,Not known
+,, ,1,Male
+,, ,2,Female
+,, ,9,Not specified
+1.09,Patient admin status,1.09 Patient admin status,,
+,, ,1,NHS
+,, ,2,Private
+,, ,3,Amenity
+,, ,9,Unknown
+1.10,Patient postcode,1.10 Patient postcode,,
+1.11,GP/ PCT code,1.11 GP/ PCT code,,
+1.13,Patient ethnicity,1.13 Patient ethnicity,,
+,, ,1,White
+,, ,2,Black
+,, ,3,Asian
+,, ,5,Mixed 
+,, ,6,Not stated
+,, ,8,Other
+,, ,9,Unknown
+2.01,Initial diagnosis,2.01 Initial diagnosis,,
+,, ,1,Definite myocardial infarction
+,, ,3,Acute coronary syndrome
+,, ,4,Chest pain ? cause
+,, ,5,Other initial diagnosis
+2.03,ECG determining treatment,2.03 ECG determining treatment,,
+,, ,0,No acute changes
+,, ,1,ST segment elevation
+,, ,2,Left bundle branch block
+,, ,3,ST segment depression
+,, ,4,T wave changes only
+,, ,5,Other acute abnormality
+,, ,9,Unknown
+2.04,Where was aspirin/other antiplatelet given?,2.04 Where was aspirin/other antiplatelet given?,,
+,, ,1,Already on aspirin / antiplatelet drug
+,, ,2,Aspirin / antiplatelet drug given out of hospital
+,, ,3,Aspirin / antiplatelet drug given after arrival in hospital
+,, ,4,Aspirin / antiplatelet contraindicated
+,, ,8,Not given
+,, ,9,Unknown
+2.05,Previous AMI,2.05 Previous AMI,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.06,Previous angina,2.06 Previous angina,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.07,Hypertension,2.07 Hypertension,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.08,Hypercholesterolaemia,2.08 Hypercholesterolaemia,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.09,Peripheral vascular disease,2.09 Peripheral vascular disease,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.10,Cerebrovascular disease,2.10 Cerebrovascular disease,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.11,Asthma or COPD,2.11 Asthma or COPD,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.12,Chronic renal failure,2.12 Chronic renal failure,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.13,Heart failure,2.13 Heart failure,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.14,Cardiac markers raised?,2.14 Cardiac markers raised?,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.15,Serum cholesterol,2.15 Serum cholesterol,,
+2.16,Smoking status,2.16 Smoking status,,
+,, ,0,Never smoked
+,, ,1,Ex smoker
+,, ,2,Current smoker
+,, ,3,Non smoker - smoking history unknown
+,, ,9,Unknown
+2.17,Diabetes,2.17 Diabetes,,
+,, ,0,Not diabetic
+,, ,1,Diabetes (dietary control)
+,, ,2,Diabetes (oral medicine)
+,, ,3,Diabetes (insulin)
+,, ,5,Insulin plus oral medication
+,, ,9,Unknown
+2.18,Previous PCI,2.18 Previous PCI,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.19,Previous CABG,2.19 Previous CABG,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.20,Systolic BP,2.20 Systolic BP,,
+2.21,Heart rate,2.21 Heart rate,,
+2.22,Admitting consultant,2.22 Admitting consultant,,
+,, ,0,Cardiologist
+,, ,1,Other general physician
+,, ,9,Other
+,, ,99,Unknown
+2.23,Place first 12 lead ECG performed,2.23 Place first 12 lead ECG performed,,
+,, ,1,Ambulance
+,, ,2,In hospital
+,, ,3,Other healthcare facility
+,, ,9,Unknown
+2.24,Beta blocker use,2.24 Beta blocker use,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.25,ACEI or ARB use,2.25 ACEI or ARB use,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.26,Statin use,2.26 Statin use,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.28,Serum glucose,2.28 Serum glucose,,
+2.29,Height,2.29 Height,,
+2.30,Weight,2.30 Weight,,
+2.31,Left ventricular ejection fraction,2.31 Left ventricular ejection fraction,,
+,, ,1,Good 
+,, ,2,Moderate 
+,, ,3,Poor 
+,, ,8,Not assessed
+,, ,9,Unknown
+2.32,Family history of CHD,2.32 Family history of CHD,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.33,Cardiological care during admission,2.33 Cardiological care during admission,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.34 ,Creatinine,2.34  Creatinine,,
+2.35,Haemoglobin,2.35 Haemoglobin,,
+2.36,Site of infarction,2.36 Site of infarction,,
+,, ,1,Anterior
+,, ,2,Inferior
+,, ,3,Posterior
+,, ,4,Lateral
+,, ,5,Indeterminate
+,, ,9,Unknown
+2.37 ,ECG QRS complex duration,2.37  ECG QRS complex duration,,
+,, ,1,QRS complex duration >= 120 msec
+,, ,2,QRS complex duration <120 msec
+,, ,9,Unknown
+2.38,Thienopyridine inhibitor use,2.38 Thienopyridine inhibitor use,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+2.39,Admission method,2.39 Admission method,,
+,, ,1,Direct admission via emergency service
+,, ,2,Self presenter to this hospital
+,, ,3,Already in this hospital
+,, ,4,Inter-hospital transfer for specific treatment 
+,, ,5,Repatriation after coronary intervention
+,, ,6,Other
+,, ,9,Unknown
+2.40,Patient location at time of STEMI,2.4 Patient location at time of STEMI,,
+,, ,1,"Onset of STEMI while patient not in hospital (STE on first ECG)
+"
+,, ,2,"STE first recorded on a subsequent ECG in, (or before arrival at) a non-interventional hospital"
+,, ,3," STE first recorded on a subsequent ECG in, (or before arrival at) the interventional hospital
+ "
+,, ,8,Not applicable
+,, ,9,Unknown
+2.41,Killip class ,2.41 Killip class ,,
+,, ,1,No evidence of heart failure
+,, ,2,Basal crepitations and/or elevated venous pressure
+,, ,3,Pulmonary oedema
+,, ,4,Cardiogenic shock
+,, ,8,Not applicable
+,, ,9,Unknown
+2.42,Stress echo,2.42 Stress echo,,
+,, ,0,No
+,, ,1,Yes
+,, ,2,Planned after discharge
+,, ,8,Not indicated
+,, ,9,Unknown
+3.01,Date/time of symptom onset,3.01 Date/time of symptom onset,,
+3.02,Date/time of call for help,3.02 Date/time of call for help,,
+3.03,Date/time of arrival of first responder,3.03 Date/time of arrival of first responder,,
+3.04,Date/time of arrival of ambulance,3.04 Date/time of arrival of ambulance,,
+3.05,Ambulance Job Number,3.05 Ambulance Job Number,,
+3.06,Date/time arrival at hospital,3.06 Date/time arrival at hospital,,
+3.08,Reason reperfusion treatment not given,3.08 Reason reperfusion treatment not given,,
+,, ,0,None
+,, ,1,Ineligible ECG
+,, ,2,Too late
+,, ,3,Risk of haemorrhage
+,, ,4,Uncontrolled hypertension
+,, ,5,Administrative failure
+,, ,6,Elective decision
+,, ,7,Patient refused treatment
+,, ,8,Other
+,, ,9,Unknown
+3.09,Date/time of reperfusion treatment,3.09 Date/time of reperfusion treatment,,
+3.10,Delay before treatment,3.10 Delay before treatment,,
+,, ,0,No
+,, ,1,Sustained hypertension
+,, ,2,Clinical concern about recent cerebrovascular event or surgery
+,, ,3,Delay obtaining consent
+,, ,4,Initial ECG ineligible
+,, ,5,Cardiac arrest
+,, ,6,Obtaining consent for therapeutic trial
+,, ,7,Hospital administrative failure
+,, ,8,Ambulance procedural delay
+,, ,9,Other
+,, ,10,Ambulance 12 lead ECG not diagnostic of STEMI
+,, ,11,Consideration of primary PCI
+,, ,12,Ambulance administrative delay
+,, ,13,Cath lab access delayed
+,, ,14,Delay in activating cath lab team
+,, ,15,Pre-PCI complication
+,, ,16,Equipment failure
+,, ,17,Convalescent STEMI
+3.11,Where was initial reperfusion treatment given?,3.11 Where was initial reperfusion treatment given?,,
+,, ,0,No reperfusion attempted
+,, ,1,Before admission to hospital
+,, ,2,In A&E
+,, ,3,In CCU (direct admission)
+,, ,4,In CCU (slowtrack)
+,, ,5,Elsewhere in hospital
+,, ,6,Cath lab 
+,, ,9,Unknown
+3.13,Cardiac arrest date/time - FIRST ARREST ONLY,3.13 Cardiac arrest date/time - FIRST ARREST ONLY,,
+3.14,Cardiac arrest location,3.14 Cardiac arrest location,,
+,, ,1,No arrest
+,, ,2,Before ambulance arrival
+,, ,3,After ambulance arrival
+,, ,4,A&E
+,, ,5,CCU
+,, ,6,Medical ward
+,, ,7,Elsewhere in hospital
+,, ,8,Catheter lab
+3.15,Arrest presenting rhythm,3.15 Arrest presenting rhythm,,
+,, ,1,Asystole
+,, ,2,VF/pulseless VT
+,, ,3,EMD
+,, ,9,Unknown
+3.16,Outcome of arrest,3.16 Outcome of arrest,,
+,, ,1,No return of circulation
+,, ,2,Return of spontaneous circulation but died in hospital
+,, ,3,Discharged from hospital (with neurological deficit)
+,, ,4,Discharged from hospital (no neurological deficit)
+,, ,5,Resuscitation not attempted
+,, ,6,Transferred to another hospital
+,, ,9,Unknown
+3.17,Admission ward,3.17 Admission ward,,
+,, ,1,Cardiac care unit
+,, ,2,Acute admissions unit
+,, ,3,General medical ward
+,, ,4,Intensive therapy unit
+,, ,5,Other
+,, ,6,Died in A&E
+,, ,7,Cardiac ward (non CCU)
+,, ,8,Stepdown ward
+,, ,9,Unknown
+3.19,Peak Troponin,3.19 Peak Troponin,,
+3.20,Unfractionated heparin,3.20 Unfractionated heparin,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+3.21,Low molecular weight heparin,3.21 Low molecular weight heparin,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+3.22,Thienopyridine platelet inhibitor,3.22 Thienopyridine platelet inhibitor,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+3.24,IV 2b/3a agent,3.24 IV 2b/3a agent,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+3.25,IV beta blocker,3.25 IV beta blocker,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+3.27,Calcium channel blocker,3.27 Calcium channel blocker,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+3.28,IV nitrate,3.28 IV nitrate,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+3.29,Oral nitrate,3.29 Oral nitrate,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+3.30,Potassium channel modulator,3.30 Potassium channel modulator,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+3.31,Warfarin,3.31 Warfarin,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+3.32,Angiotensin converting enzyme inhibitor or angiotensin receptor blocker (ARB),3.32 Angiotensin converting enzyme inhibitor or angiotensin receptor blocker (ARB),,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+3.33,Thiazide diuretic,3.33 Thiazide diuretic,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+3.34,Loop diuretic,3.34 Loop diuretic,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+3.36,Thrombolytic drug,3.36 Thrombolytic drug,,
+,, ,1,Streptokinase
+,, ,2,Alteplase
+,, ,3,Reteplase
+,, ,4,Tenecteplase
+3.37,Troponin assay,3.37 Troponin assay,,
+,, ,1,Troponin I
+,, ,2,Troponin T
+,, ,3,High sensitivity Troponin T
+,, ,4,High sensitivity troponin I
+,, ,9,Unknown
+3.38,Fondaparinux,3.38 Fondaparinux,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+3.39,Initial reperfusion treatment,3.39 Initial reperfusion treatment,,
+,, ,0, None
+,, ,1,Thrombolytic treatment
+,, ,2,pPCI in house
+,, ,3,Referred for consideration for pPCI elsewhere
+,, ,4,pPCI already was peformed at the interventional hospital
+,, ,9,Unknown
+3.40,Additional reperfusion treatment ,3.40 Additional reperfusion treatment ,,
+,, ,0,None
+,, ,1,Rescue PCI in house
+,, ,2,Referred for rescue PCI elsewhere
+,, ,3,Facilitated PCI
+,, ,4,Additional dose of thrombolytic 
+3.41,In patient management of hyperglycaemia/diabetes,3.41 In patient management of hyperglycaemia/diabetes,,
+,, ,0,None
+,, ,1,Glucose insulin regime
+,, ,2,Insulin pump
+,, ,3,Multi dose insulin
+,, ,4,Other pre-admission insulin regime
+,, ,5,Oral medication only
+,, ,7,Diet only
+,, ,9,Unknown
+3.42,Diabetic therapy at discharge,3.42 Diabetic therapy at discharge,,
+,, ,0,None
+,, ,1,Multi dose insulin regime
+,, ,2,Other insulin regime
+,, ,3,Oral medication
+,, ,4,Insulin plus oral medication
+,, ,5,Diet only
+,, ,6,Not applicable
+,, ,9,Unknown
+3.43,Oral beta blocker,3.43 Oral beta blocker,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+3.44,Aldosterone antagonist,3.44 Aldosterone antagonist,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+3.45,Bivalirudin,3.45 Bivalirudin,,
+,, ,0,No
+,, ,1,Yes
+,, ,2,Contraindicated
+,, ,8,Not indicated
+,, ,9,Unknown
+3.46,Date/time of arrival at non interventional hospital,3.46 Date/time of arrival at non interventional hospital,,
+3.47,Assessment at non interventional hospital,3.47 Assessment at non interventional hospital,,
+,, ,0,No contact with a non interventional hospital 
+,, ,1,Patient remains in ambulance
+,, ,2,A&E
+,, ,3,Acute assessment unit
+,, ,4,CCU / cardiac facility
+,, ,5,Self referral
+,, ,6,Already in hospital
+,, ,7,Other
+,, ,9,Unknown
+3.48,Assessment at interventional centre,3.48 Assessment at interventional centre,,
+,, ,1,Assessed in A&E
+,, ,2,Acute assessment unit
+,, ,3,CCU / cardiac facility
+,, ,4,Catheter laboratory
+,, ,5,Already in hospital
+,, ,9,Unknown
+3.49,Intended reperfusion procedure,3.49 Intended reperfusion procedure,,
+,, ,0,None
+,, ,1,Primary PCI
+,, ,2,Rescue PCI
+,, ,3,Thrombolytic treatment
+,, ,4,Other coronary intervention
+,, ,9,Unknown
+3.50,Procedure performed,3.5 Procedure performed,,
+,, ,1,No angiogram
+,, ,2,Angiogram but no PCI
+,, ,3,Angiogram and PCI
+,, ,9,Unknown
+3.51,Why was no angiogram performed?,3.51 Why was no angiogram performed?,,
+,, ,0,Not applicable
+,, ,1,Diagnosis not ACS
+,, ,2,Patient refused
+,, ,3,Patient died
+,, ,4,Complication before angio could be performed
+,, ,5,Angio inappropriate due to co-morbidity
+,, ,6,Technical failure
+,, ,7,Lab unavailable
+,, ,8,Other
+,, ,9,Unknown
+3.52,Why was no intervention performed?,3.52 Why was no intervention performed?,,
+,, ,0,Not applicable
+,, ,1,Patient refused
+,, ,2,Patient died
+,, ,3,Complication before PCI could be performed
+,, ,4,PCI felt to be inappropriate
+,, ,5,Angiographically normal coronaries / mild disease / Infarct Related Vessel unclear 
+,, ,6,Surgical disease
+,, ,7,Technical failure
+,, ,8,Other
+,, ,9,Unknown
+3.53,Date/time of start of insulin infusion,3.53 Date/time of start of insulin infusion,,
+4.01,Date of discharge,4.01 Date of discharge,,
+4.02,Discharge diagnosis,4.02 Discharge diagnosis,,
+,, ,1,Myocardial infarction (ST elevation)
+,, ,3,Threatened MI
+,, ,4,Acute coronary syndrome (troponin positive)/ nSTEMI
+,, ,5,Acute coronary syndrome (troponin negative)
+,, ,6,Chest pain of uncertain cause
+,, ,7,Myocardial infarction (unconfirmed)
+,, ,8,Other diagnosis
+,, ,9,Takotsubo Cardiomyopathy
+,, ,11,PCI related MI
+4.03,Bleeding complications,4.03 Bleeding complications,,
+,, ,0,None
+,, ,1,Intracranial bleed
+,, ,2,Retroperitoneal haemorrhage
+,, ,3,Any bleed with Hb fall > 50g 
+,, ,4,Any bleed with Hb fall > 30g and < 50g
+,, ,5,Any bleed with Hb fall <30 g
+,, ,9,Unknown
+4.04,Death in hospital,4.04 Death in hospital,,
+,, ,0,No
+,, ,1,From MI
+,, ,2,From complication of treatment
+,, ,3,Other non cardiac related cause
+,, ,4,Other cardiac cause
+,, ,9,Unknown
+4.05,Discharged on beta blocker,4.05 Discharged on beta blocker,,
+,, ,0,No
+,, ,1,Yes
+,, ,2,Contraindicated
+,, ,3,Patient declined treatment
+,, ,4,Not applicable
+,, ,8,Not indicated
+,, ,9,Unknown
+4.06,Discharged on angiotensin converting enzyme inhibitor or angiotensin receptor blocker,4.06 Discharged on angiotensin converting enzyme inhibitor or angiotensin receptor blocker,,
+,, ,0,No
+,, ,1,Yes
+,, ,2,Contraindicated
+,, ,3,Patient declined treatment
+,, ,4,Not applicable
+,, ,8,Not indicated
+,, ,9,Unknown
+4.07,Discharged on statin,4.07 Discharged on statin,,
+,, ,0,No
+,, ,1,Yes
+,, ,2,Contraindicated
+,, ,3,Patient declined treatment
+,, ,4,Not applicable
+,, ,8,Not indicated
+,, ,9,Unknown
+4.08,Discharged on aspirin ,4.08 Discharged on aspirin ,,
+,, ,0,No
+,, ,1,Yes
+,, ,2,Contraindicated
+,, ,3,Patient declined treatment
+,, ,4,Not applicable
+,, ,8,Not indicated
+,, ,9,Unknown
+4.09,Cardiac rehabilitation,4.09 Cardiac rehabilitation,,
+,, ,0,No
+,, ,1,Yes
+,, ,3,Patient declined
+,, ,8,Not indicated
+,, ,9,Unknown
+4.10,Exercise test,4.10 Exercise test,,
+,, ,0,No
+,, ,1,Yes
+,, ,2,Planned after discharge
+,, ,8,Not indicated
+,, ,9,Unknown
+4.11,Echocardiography,4.11 Echocardiography,,
+,, ,0,No
+,, ,1,Yes
+,, ,2,Planned after discharge
+,, ,8,Not indicated
+,, ,9,Unknown
+4.12,Radionuclide study,4.12 Radionuclide study,,
+,, ,0,No
+,, ,1,Yes
+,, ,2,Planned after discharge
+,, ,8,Not indicated
+,, ,9,Unknown
+4.13,Coronary angiography,4.13 Coronary angiography,,
+,, ,1,Protocol driven investigation performed in this hospital
+,, ,2,Symptom driven investigation performed in this hospital
+,, ,3,Protocol driven investigation performed at another hospital
+,, ,4,Symptom driven investigation performed at another hospital
+,, ,5,Planned after discharge
+,, ,6,Not applicable
+,, ,7,Patient refused 
+,, ,8,Not performed
+,, ,9,Unknown
+4.14,Coronary intervention,4.14 Coronary intervention,,
+,, ,1,Percutaneous coronary intervention
+,, ,2,CABG
+,, ,4,PCI planned after discharge
+,, ,5,CABG planned after discharge
+,, ,6,Not applicable
+,, ,7,Patient refused 
+,, ,8,Not performed or arranged
+,, ,9,Unknown
+4.15,Date/time of referral for investigation/intervention,4.15 Date/time of referral for investigation/intervention,,
+4.16,Discharge destination,4.16 Discharge destination,,
+,, ,1,Home
+,, ,2,Other hospital
+,, ,3,Convalescence
+,, ,4,Death
+,, ,8,Other specialty in same hospital
+,, ,9,Unknown
+4.17,Daycase transfer date,4.17 Daycase transfer date,,
+4.18,Angio date/time,4.18 Angio date/time,,
+4.19,Local intervention date,4.19 Local intervention date,,
+4.20,Interventional centre code,4.20 Interventional centre code,,
+4.21,Referring hospital code,4.21 Referring hospital code,,
+4.23,Followed up by,4.23 Followed up by,,
+,, ,1,Cardiologist
+,, ,2,Non cardiologist
+,, ,3,No follow up 
+,, ,4,Not applicable
+,, ,9,Unknown
+4.24,Reinfarction,4.24 Reinfarction,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+4.26,Date of return to referring hospital,4.26 Date of return to referring hospital,,
+4.27,Discharged on a thienopyridine inhibitor,4.27 Discharged on a thienopyridine inhibitor,,
+,, ,0,No
+,, ,1,Yes
+,, ,2,Contraindicated
+,, ,3,Patient declined treatment
+,, ,4,Not applicable
+,, ,8,Not indicated
+,, ,9,Unknown
+4.28,Discharged on an aldosterone antagonist,4.28 Discharged on an aldosterone antagonist,,
+,, ,0,No
+,, ,1,Yes
+,, ,2,Contraindicated
+,, ,3,Patient declined treatment
+,, ,4,Not applicable
+,, ,8,Not indicated
+,, ,9,Unknown
+4.29,What procedure was performed at the interventional hospital?,4.29 What procedure was performed at the interventional hospital?,,
+,, ,0,No angio or primary reperfusion treatment performed
+,, ,1,Angiogram only
+,, ,2,Primary angioplasty
+,, ,3,Rescue angioplasty
+,, ,4,CABG
+,, ,5,Thrombolytic treatment
+,, ,9,Unknown
+4.30,Delay to performance of angiogram,4.3 Delay to performance of angiogram,,
+,, ,0,None
+,, ,1,Delay due to comorbid clinical condition/ competing clinical issue
+,, ,2,Capacity issues
+,, ,3,Patient preference
+,, ,8,Other
+,, ,9,Unknown
+4.31,Discharged on Ticagrelor ,4.31 Discharged on Ticagrelor ,,
+,, ,0,No
+,, ,1,Yes
+,, ,2,Contraindicated
+,, ,3,Patient declined treatment
+,, ,4,Not applicable
+,, ,8,Not indicated
+,, ,9,9. Unknown
+4.32,High risk nSTEMI,4.32 High risk nSTEMI,,
+,, ,0,No
+,, ,1,Yes
+,, ,9,Unknown
+5.1,Smoking cessation advice given,5.1 Smoking cessation advice given,,
+,, ,0,No
+,, ,1,Yes
+,, ,2,Planned in rehab
+,, ,3,Not  applicable
+,, ,9,Unknown
+5.2,Dietary advice given during this admission,5.2 Dietary advice given during this admission,,
+,, ,0,No
+,, ,1,Yes
+,, ,3,Planned in rehab
+,, ,4, Not applicable
+,, ,9,Unknown
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

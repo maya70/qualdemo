@@ -1,0 +1,138 @@
+Name,Description
+EXPORTANONYMISED,Export this Episode anonymised
+ADNO,Admission number
+NHSNO,NHS number
+CASENO,Case note number
+FAMILYNAME,Family name
+FAMILYNAME2,2nd Family name
+FIRSTNAME,First name
+ADDRESS1,Address line 1
+ADDRESS2,Address line 2
+ADDRESS3,Address line 3
+ADDRESS4,Address line 4
+ADDRESS5,Address line 5
+POSTCODE,Postcode
+DOB,Date of birth
+DOBEST,DOB estimated or missing
+GEST,Gestational age at delivery
+MULT,Multiple birth
+DELORDER,Delivery order
+SEX,Sex
+ETHNIC,Ethnic code
+ETHNICOTHER,Other ethnic origin
+ADDATE,Date of admission to your unit
+ADTIME,Time of admission to your unit
+ADTYPE,Admission type
+PREVICUAD,Previous ICU admission
+SOURCEAD,Source of admission
+RETRIEVAL,Retrieval
+RETRIEVALBY,Retrieved by
+CAREAREAAD,Care area admitted from
+GPPRACTICECODE,GP practice code
+WEIGHT,Weight
+HEIGHT,Height
+ABDOCIRC,Abdominal circumference
+PRIMARYDIAGNOSIS,Primary diagnosis for this admission - clinical code
+PRIMARYDIAGNOSISNOTES,Primary diagnosis for this admission - as recorded in the notes
+OTHERREASON,Other diagnosis - clinical code
+OTHERREASONNOTES,Other diagnosis - as recorded in the notes
+OPERATIONORPROCEDURE,Operation or procedure - clinical code
+OPERATIONORPROCEDURENOTES,Operation or procedure - as recorded in the notes
+COMORBIDITY,Co-morbidity - clinical code
+COMORBIDITYNOTES,Co-morbidity - as recorded in the notes
+MEDHISTEVID,Evidence available to assess past medical history
+CARDIOMYOCARDITIS,Cardiomyopathy or myocarditis
+SPONTCEREBHAEM,Spontaneous cerebral haemorrhage
+SEVCOMBIMMUNE,Severe combined immune deficiency
+NEUROGENDIS,Neurodegenerative disorder
+HYPOPLAS,Hypoplastic left heart syndrome
+SEVDEVDELAY,Severe developmental delay
+LEUKLYMPH1ST,Leukaemia or Lymphoma after first induction
+LIVERFAIL,Liver failure
+HIV,HIV
+PRECEDCPR,Cardiac arrest preceding ICU admission
+PRECEHOSPCARDARR,Cardiac arrest preceding hospital admission
+CARDIACBYP,Admitted following cardiac bypass
+ELECTIVEAD,Elective admission?
+PRIMREASON,Primary reason for admission
+BPSYS,Systolic blood pressure
+PAO2KPA,PaO2 - oxygen pressure
+PAO2HG,PaO2 - oxygen pressure
+FIO2,FiO2 at time of PaO2 sample - oxygen inspired
+INTUBATION,Intubated at any time in first hour
+HEADBOX,Use of head box
+BASEEXCESS,Base excess in arterial or capillary blood
+PUPREACT,Pupillary reaction
+MECHVENT,Mechanical ventilation during first hour on unit
+BGFIRSTHR,Blood gas in first hour?
+CPAPFIRSTHR,CPAP during first hour
+INVVENT,Invasive ventilation
+INVVENTDAY,Invasive ventilation: days
+NONINVVENT,Non-invasive ventilation
+NONINVVENTDAY,Non-invasive ventilation: days
+INTTRACHEOSTOMY,Tracheostomy
+ECMO,ECMO
+VASOACTIVE,Vasoactive drug therapy
+LVAD,Left ventricular assist device
+ICPDEVICE,ICP device
+ICPVD,Intracranial pressure device - Ventricular drain
+ICPBOLT,Intracranial pressure device - ICP BOLT
+RENALSUPPORT,Renal support
+RENALHAEMFIL,Renal support - haemofiltration
+RENALHAEMDIA,Renal support - haemodialysis
+RENALPLASFILT,Renal support - plasmafiltration
+RENALPLASEXCH,Renal support - plasma exchange
+RENALPERIDIA,Renal support - peritoneal dialysis
+ActivityDate,Date of activity
+ABPUMP,Aortic balloon pump
+APNOEA,Apnoea requiring intervention
+ARTLINE,Arterial line monitoring
+ASTHMAIVBEPH,Acute severe asthma requiring intravenous bronchodilator therapy or continuous nebuliser
+AVSJET,Advanced ventilatory support (jet ventilation)
+AVSOSC,Advanced ventilatory support (oscillatory ventilation)
+BOLUS,Bolus IV fluids (>80 ml/kg/day) in addition to maintenance IV fluids
+CPOX,Continuous pulse oximetry
+CPR,Cardio-pulmonary resuscitation
+CUBICLE,Patient nursed in single occupancy cubicle
+CVPMON,Central venous pressure monitoring 
+DKA,Diabetic ketoacidosis (DKA) requiring continuous infusion of insulin
+ECG,Continuous ECG monitoring
+ECMO,Extracorporeal membrane oxygenation (ECMO)
+EXTPACE,External pacing
+EXTRANS,Exchange transfusion
+HAEMODIA,Haemodialysis
+HAEMOFILT,Haemofiltration
+ICPMON,ICP-intracranial pressure monitoring
+INFINOTROPE,"Continuous infusion of inotrope, vasodilator or prostaglandin"
+INTCATHEVD,Intraventricular catheter or external ventricular drain
+INTHROM,Intravenous thrombolysis
+INVVENTET,Invasive ventilation via endotracheal tube
+INVVENTTT,Invasive ventilation via tracheostomy tube
+MARS,Extracorporeal liver support using molecular absorbent recirculating system (MARS)
+NASO,Nasopharyngeal airway
+NIV,Non-invasive ventilatory support
+NOCRIT,No defined critical care activity
+NOX,Medical gases band 1 - nitric oxide
+OBSAIR,Upper airway obstruction requiring nebulised epinephrine / adrenaline
+OXTHERAPY,Supplemental oxygen therapy (irrespective of ventilatory state)
+PERIDIA,Peritoneal dialysis
+PLASMAEXCH,Plasma exchange
+PLASMAFILT,Plasma filtration
+SURFACTANT,Surfactant
+TRACH,Tracheostomy cared for by nursing staff
+VAD,Ventricular assist device (VAD)
+ISOLREAS,Reason for isolation
+UNITDISSTATUS,Status at discharge from unit
+DISPALCARE,Discharge for palliative care
+UNITDISDATE,Date of discharge from unit
+UNITDISTIME,Time of discharge from unit
+DOD,Date of death
+TIMEDTH,Time of death
+UNITDISDEST,Destination following discharge from unit
+UNITDISDESTHOSP,Destination following discharge from unit: hospital
+CLINTRIAL,Clinical trial?
+CLINTRIALNAME,Name of clinical trial
+FU30DISSTATUS,Status at 30 days post discharge from unit
+FU30LOCATION,Location 30 days following discharge from unit
+FU30LOCHOSP,Location 30 days post discharge from unit: hospital
+COMMENTS,Free text field for comments

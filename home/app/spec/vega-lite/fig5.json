@@ -1,0 +1,20 @@
+{
+  "data": {"url": "data/weather.csv","formatType": "csv"},
+  "facet": {"column": {"field": "location","type": "nominal"}},
+  "spec": {
+    "mark": "line",
+    "encoding": {
+      "x": {
+        "field": "date",
+        "type": "temporal",
+        "timeUnit": "month"
+      },
+      "y": {
+        "field": "temp_max",
+        "type": "quantitative",
+        "aggregate": "mean"
+      },
+      "color": {"field": "location","type": "nominal", "legend": false}
+    }
+  }
+}

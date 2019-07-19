@@ -1,0 +1,20 @@
+{
+  "repeat": {"column": ["temp_max","precipitation"]},
+  "spec": {
+    "data": {"url": "data/weather.csv","formatType": "csv"},
+    "mark": "line",
+    "encoding": {
+      "x": {
+        "field": "date",
+        "type": "temporal",
+        "timeUnit": "month"
+      },
+      "y": {
+        "field": {"repeat": "column"},
+        "type": "quantitative",
+        "aggregate": "mean"
+      },
+      "color": {"field": "location","type": "nominal"}
+    }
+  }
+}

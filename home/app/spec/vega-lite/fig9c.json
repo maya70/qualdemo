@@ -1,0 +1,20 @@
+{
+  "data": {"url": "data/cars.json"},
+  "mark": "circle",
+  "select": {
+    "region": {
+      "type": "interval",
+      "project": {"channels": ["x"]}
+    }
+  },
+  "encoding": {
+    "x": {"field": "Horsepower","type": "quantitative"},
+    "y": {"field": "Miles_per_Gallon","type": "quantitative"},
+    "color": [
+      {"if": "region", "field": "Origin", "type": "nominal"},
+      {"value": "grey"}
+    ],
+    "size": {"value": 100}
+  },
+  "config": {"mark": {"fillOpacity": 0.5}}
+}

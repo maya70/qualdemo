@@ -1,0 +1,154 @@
+.w3-grey-item {
+    height:25px;
+    background-color: grey;
+}
+.myitem{
+    height: 24px;
+
+}
+.tab {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    width: 30%;
+    height: 300px;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+    display: block;
+    background-color: inherit;
+    color: black;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current "tab button" class */
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    float: left;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 70%;
+    border-left: none;
+    height: 300px;
+}
+div.tooltip { 
+    position: absolute;     
+    text-align: center;     
+    width: 60px;          
+    height: 28px;         
+    padding: 2px;       
+    font: 12px sans-serif;    
+    background: lightsteelblue; 
+    border: 0px;    
+    border-radius: 8px;     
+    pointer-events: none;     
+}
+
+.draggabledivcontainer{
+    position: absolute;
+    z-index: 8;
+    text-align: center;
+    border: none;
+    min-height: 500px;
+    min-width: 600px;
+    border-radius: 10px;
+    padding-bottom: 10px; 
+    
+}
+.draggablediv {
+    position: absolute;
+    z-index: 9;
+    background-color: #f1f1f1;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    min-height: 350px;
+    min-width: 550px;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-template-rows: 7% 93%;
+    grid-template-areas: "header header"
+                         "draw control";
+    height: 450px; 
+    padding-bottom: 10px; 
+    width: 500px; 
+    
+    }
+
+  .draggabledivheader {
+    grid-area: header;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: move;
+    z-index: 10;
+    /* background: linear-gradient(to right, #63C3F3 , #63F3B9);*
+    background: #63F3B9;*/
+    background: darkgrey ; 
+    opacity: 0.8;
+    color: #fff;
+    height: 45px;
+    
+    }
+    .draw-area{
+      grid-area: draw;
+      justify-self: left;
+      height: 98%;
+      min-width: 90%; 
+      margin-top: 5%;
+      margin-right: 0px;
+      padding-right: 0px;
+      z-index: 8; 
+     
+    }
+    .control-panel{
+      grid-area: control;
+      justify-self: right;
+      min-width: 30%;
+      height: 90%;
+      margin-top: 5%;
+      margin-bottom: 5%;
+      background-color: darkgrey;
+    }
+    #field-panel{
+      border-radius: 5px;
+      padding-left: 0px;
+      margin-left: 0px;
+      margin-top: 10px;
+    }
+    .control-button{
+      border-radius: 5px;
+      width: 100%;
+      margin-top: 20px; 
+      margin-bottom: 10px;
+    
+      margin-right: 10px; 
+    }
+    #table-panel{
+      width: 100%;
+    }
+    .popover{
+      max-width: 1000px;
+      min-width: 500px;
+      min-height: 500px;
+      max-height: 1000px;
+    }
+  .mod_vis{
+    max-height: 400px;
+    max-width: 500px; 
+  }

@@ -1,0 +1,13 @@
+{
+  "data": {"url": "data/weather.csv","formatType": "csv"},
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "location","type": "nominal"},
+    "y": {
+      "field": "*",
+      "type": "quantitative",
+      "aggregate": "count"
+    },
+    "color": {"field": "weather","type": "nominal"}
+  }
+}

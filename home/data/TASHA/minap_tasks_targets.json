@@ -1,0 +1,324 @@
+[
+  {
+    "Metric": "admission",
+    "Task": "What are the age groups for patients",
+    "Target1": "distribution",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "admission",
+    "Task": "What is the primary diagnosis for patients?",
+    "Target1": "distribution",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "admission",
+    "Task": "how many cases has each clinician done?",
+    "Target1": "distribution",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "admission",
+    "Task": "Compare actual events to expected events given case mix",
+    "Target1": "distribution",
+    "Target2": "proportion",
+    "Target3": "na"
+  },
+  {
+    "Metric": "admission",
+    "Task": "What is the numer of primaries (STEMI) per month?",
+    "Target1": "trend",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "admission",
+    "Task": "How many admissions in a particular time period?",
+    "Target1": "trend",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "admission",
+    "Task": "What is the percentage of patients with MI who have been seen by a cardiologist per month?",
+    "Target1": "trend",
+    "Target2": "proportion",
+    "Target3": "na"
+  },
+  {
+    "Metric": "admission",
+    "Task": "What is the trend of emergency / elective / urgent admissions?",
+    "Target1": "trend",
+    "Target2": "proportion",
+    "Target3": "na"
+  },
+  {
+    "Metric": "admission",
+    "Task": "When did patient arrive in hospital?",
+    "Target1": "value",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "admission",
+    "Task": "How many patients are currently in the system (pressure on unit)?",
+    "Target1": "value",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "benchmark",
+    "Task": "Compare teatment times (call-to-door, call-to-balloon) with other trusts in region",
+    "Target1": "distribution",
+    "Target2": "value",
+    "Target3": "na"
+  },
+  {
+    "Metric": "benchmark",
+    "Task": "what is the number of follow-up appointements (cardiology) in own trust versus other trusts in region?",
+    "Target1": "distribution",
+    "Target2": "value",
+    "Target3": "na"
+  },
+  {
+    "Metric": "complication",
+    "Task": "How do patients' GRACE scores relate to timining of angiography?",
+    "Target1": "association",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "complication",
+    "Task": "How many complications in patients for each clinician?",
+    "Target1": "distribution",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "CTB",
+    "Task": "For non-STEMI patients, what is the average time to angiography?",
+    "Target1": "distribution",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "CTB",
+    "Task": "What is the current wait time to go to the cath lab?",
+    "Target1": "distribution",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "CTB",
+    "Task": "How quickly did the hospital get patients to the lab in relation to target benchmark?",
+    "Target1": "distribution",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "CTB",
+    "Task": "Of STEMI patients that did not meet the CTB target, which patients were direct / indirect admission?",
+    "Target1": "distribution",
+    "Target2": "proportion",
+    "Target3": "na"
+  },
+  {
+    "Metric": "CTB",
+    "Task": "Compare the distribution/median/average of the CTB for own site versus district",
+    "Target1": "distribution",
+    "Target2": "value",
+    "Target3": "na"
+  },
+  {
+    "Metric": "CTB",
+    "Task": "Compare the distribution/median/average of the CTB for own site versus national average",
+    "Target1": "distribution",
+    "Target2": "value",
+    "Target3": "na"
+  },
+  {
+    "Metric": "CTB",
+    "Task": "Which of the primaries have not met the target benchmark of call-to-balloon time?",
+    "Target1": "object",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "CTB",
+    "Task": "What is the patient pathway / journey?",
+    "Target1": "trend",
+    "Target2": "proportion",
+    "Target3": "na"
+  },
+  {
+    "Metric": "CTB",
+    "Task": "What is the percentage of patients having an angiogram per month?",
+    "Target1": "trend",
+    "Target2": "proportion",
+    "Target3": "na"
+  },
+  {
+    "Metric": "CTB",
+    "Task": "For cases that did not meet the target, where did they come from?",
+    "Target1": "value",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "dataQuality",
+    "Task": "What data are missing from audit?",
+    "Target1": "distribution",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "dataQuality",
+    "Task": "exclusion criteria to exlude some patients (e.g. if patient's symptoms started days before the call then judging response from time of call is inappropriate)",
+    "Target1": "distribution",
+    "Target2": "outlier",
+    "Target3": "na"
+  },
+  {
+    "Metric": "delays",
+    "Task": "Are delays justified?",
+    "Target1": "distribution",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "delays",
+    "Task": "Identify an hour's delay in getting and ECG in A&E",
+    "Target1": "object",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "discharge",
+    "Task": "What is the percentage of patients discharged on correct medication per year?",
+    "Target1": "trend",
+    "Target2": "proportion",
+    "Target3": "na"
+  },
+  {
+    "Metric": "DTB",
+    "Task": "For STEMI patients, what was the door to balloon time on a monthly basis?",
+    "Target1": "trend",
+    "Target2": "proportion",
+    "Target3": "na"
+  },
+  {
+    "Metric": "intervention",
+    "Task": "How many people are smokers, get smoking cessation advice, etc?",
+    "Target1": "distribution",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "intervention",
+    "Task": "Does a unit with an outlier proportion of patients receiving gold standard treatment have limited resources (e.g. less cardiologists)?",
+    "Target1": "object",
+    "Target2": "proportion",
+    "Target3": "distribution"
+  },
+  {
+    "Metric": "intervention",
+    "Task": "Does a unit with an outlier proportion of patients receiving gold standard treatment have a case mix with more patients that aren't fit for the intervention?",
+    "Target1": "object",
+    "Target2": "proportion",
+    "Target3": "distribution"
+  },
+  {
+    "Metric": "intervention",
+    "Task": "For a patient who didn't receive the gold standard drug, is it because there is a contraindication or because blood pressure was low os some other reason?",
+    "Target1": "object",
+    "Target2": "value",
+    "Target3": "na"
+  },
+  {
+    "Metric": "intervention",
+    "Task": "What treatements did a patient receive?",
+    "Target1": "object",
+    "Target2": "value",
+    "Target3": "na"
+  },
+  {
+    "Metric": "intervention",
+    "Task": "What is the proportion of patients that get primary coronary angioplasty within recommended time (72 hours) compared to other trusts?",
+    "Target1": "proportion",
+    "Target2": "distribution",
+    "Target3": "na"
+  },
+  {
+    "Metric": "intervention",
+    "Task": "Is the proportion of patients receiving gold standard primary interventions similar at own trust to other places?",
+    "Target1": "proportion",
+    "Target2": "distribution",
+    "Target3": "na"
+  },
+  {
+    "Metric": "intervention",
+    "Task": "What proportion of patients were given an echo (or treatment) in a time period?",
+    "Target1": "trend",
+    "Target2": "proportion",
+    "Target3": "na"
+  },
+  {
+    "Metric": "intervention",
+    "Task": "When did patient receive different treatments?",
+    "Target1": "trend",
+    "Target2": "value",
+    "Target3": "na"
+  },
+  {
+    "Metric": "LOS",
+    "Task": "What is the length of stay in a time period?",
+    "Target1": "trend",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "mortality",
+    "Task": "Are patients alive or dead?",
+    "Target1": "distribution",
+    "Target2": "na",
+    "Target3": "na"
+  },
+  {
+    "Metric": "mortality",
+    "Task": "What is the life and death status 30 days after leaving the hospital?",
+    "Target1": "trend",
+    "Target2": "proportion",
+    "Target3": "na"
+  },
+  {
+    "Metric": "mortality",
+    "Task": "What is the mortality for heart attacks on a monthly basis?",
+    "Target1": "trend",
+    "Target2": "proportion",
+    "Target3": "na"
+  },
+  {
+    "Metric": "referrals",
+    "Task": "for periods with low percentages of patients who have been seen by a cardiologist, what is the referral pathway?",
+    "Target1": "object",
+    "Target2": "trend",
+    "Target3": "na"
+  },
+  {
+    "Metric": "referrals",
+    "Task": "what are the referral patterns from referring units?",
+    "Target1": "trend",
+    "Target2": "distribution",
+    "Target3": "na"
+  },
+  {
+    "Metric": "referrals",
+    "Task": "What is the number of referrals per month?",
+    "Target1": "trend",
+    "Target2": "na",
+    "Target3": "na"
+  }
+]

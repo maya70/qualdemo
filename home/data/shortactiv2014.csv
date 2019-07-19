@@ -1,0 +1,2382 @@
+eventidscr,addate,hrggroup,unplannedextubation,invventet,invventtt,intubation,ventilationstatus,avsjet,avsosc,siteidscr
+1254,18-03-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+2435,11-08-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+2435,11-08-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+3791,10-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+5960,01-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+8772,02-09-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+8772,02-09-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+9915,31-10-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+10176,06-10-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+10176,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+10176,06-10-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+10176,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+10792,08-06-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+11385,23-03-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+13922,31-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+14130,29-01-14,High Dependency Advanced,NA,0,0,1,Neither,0,0,194281
+14130,29-01-14,High Dependency Advanced,NA,0,0,1,Neither,0,0,194281
+14727,04-04-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+15649,08-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+15778,24-04-14,Enhanced Care,NA,0,0,1,Neither,0,0,194281
+19702,10-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+19702,10-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+20246,04-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+20836,10-07-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+20836,10-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+22714,28-02-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+23016,04-09-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+23016,04-09-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+23619,04-04-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+25260,26-07-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+25538,14-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+27327,26-09-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+27327,26-09-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+28504,27-04-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+30402,30-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+30402,30-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+30565,08-09-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+30651,18-02-14,Enhanced Care,NA,0,0,2,Invasive only,0,0,194281
+30651,18-02-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,0,194281
+31067,18-05-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+31067,18-05-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+31067,18-05-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+31600,19-08-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+31600,19-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+32068,22-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+32068,22-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+32238,13-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+33196,12-12-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+33196,12-12-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+33380,29-07-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+33653,10-06-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,0,194281
+33653,10-06-14,Intensive Care Basic Enhanced,NA,1,0,2,Invasive only,0,0,194281
+34081,20-08-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+34830,23-05-14,High Dependency Advanced,NA,0,1,NA,Non-invasive only,0,0,194281
+35494,13-04-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+35984,10-06-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+35984,10-06-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+36327,05-02-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+37090,27-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+37090,27-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+38111,10-02-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+38679,20-06-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+38679,20-06-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+38679,20-06-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+38679,20-06-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+39401,02-04-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+39401,02-04-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+40448,02-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+40448,02-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+40532,09-07-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+40532,09-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+44658,26-01-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+44658,26-01-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+44874,22-10-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+44957,15-01-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+44957,15-01-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+44957,15-01-14,Enhanced Care,NA,0,0,NA,Non-invasive only,0,0,194281
+46084,27-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+46084,27-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+46084,27-06-14,Enhanced Care,NA,0,0,NA,Non-invasive only,0,0,194281
+46084,27-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+46874,20-01-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+47169,28-08-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+47169,28-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+48054,07-10-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+48054,07-10-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+48075,10-02-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+48075,10-02-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+48568,04-03-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+48568,04-03-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+49111,30-09-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+49125,13-11-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+49125,13-11-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+49939,28-05-14,High Dependency Advanced,NA,0,0,2,Non-invasive only,0,0,194281
+49979,22-02-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+49979,22-02-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+49979,22-02-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+51567,07-06-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+51567,07-06-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+51567,07-06-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+51648,08-02-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+51984,11-12-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+51984,11-12-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+52414,18-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+53585,23-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+53585,23-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+54261,01-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+54395,24-10-14,High Dependency Advanced,NA,0,0,2,Invasive only,0,0,194281
+54395,24-10-14,High Dependency Advanced,NA,0,0,2,Invasive only,0,0,194281
+54395,24-10-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,0,194281
+54672,27-05-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+54775,18-09-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+55962,23-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+55962,23-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+55962,23-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+56001,09-07-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+56001,09-07-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+56039,01-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+56984,11-08-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+56984,11-08-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+57143,12-06-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+57143,12-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+58394,27-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+58615,28-02-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+58615,28-02-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+58763,01-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+58763,01-07-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+59103,04-04-14,Unable to Group,NA,1,0,2,Invasive only,0,0,194281
+59103,04-04-14,Unable to Group,NA,1,0,2,Invasive only,0,0,194281
+59103,04-04-14,Unable to Group,NA,0,0,2,Invasive only,0,0,194281
+59103,04-04-14,Unable to Group,NA,0,0,2,Invasive only,0,0,194281
+59954,06-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+60242,15-07-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+60242,15-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+61931,05-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+61931,05-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+61931,05-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+62140,26-07-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+62379,12-08-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+63422,03-12-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+63422,03-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+63422,03-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+63909,26-11-14,High Dependency,NA,1,0,NA,Neither,0,0,194281
+63996,28-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+63996,28-11-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+64926,18-04-14,Enhanced Care,NA,0,0,1,Neither,0,0,194281
+64926,18-04-14,High Dependency Advanced,NA,0,0,1,Neither,0,0,194281
+65375,01-03-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+65375,01-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+67595,17-01-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+67940,16-09-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+68064,14-10-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+68064,14-10-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+68639,18-08-14,High Dependency,NA,0,0,2,Neither,0,0,194281
+68809,14-03-14,Intensive Care Basic,NA,1,0,9,Invasive only,0,0,194281
+69121,20-01-14,High Dependency Advanced,NA,0,0,9,Invasive only,0,0,194281
+69121,20-01-14,Intensive Care Basic,NA,1,0,9,Invasive only,0,0,194281
+69413,20-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+69413,20-01-14,High Dependency,NA,0,0,1,Invasive only,0,0,194281
+70896,24-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+70896,24-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+70896,24-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+71649,27-11-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+73273,30-09-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+74254,09-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+74585,26-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+74585,26-11-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+77331,13-10-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+77331,13-10-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+77606,16-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+77606,16-08-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+77606,16-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+79164,04-10-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+79164,04-10-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+79164,04-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+79164,04-10-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+79559,04-03-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+84345,20-06-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+84618,26-06-14,High Dependency Advanced,NA,0,0,2,Non-invasive only,0,0,194281
+84618,26-06-14,High Dependency Advanced,NA,0,0,2,Non-invasive only,0,0,194281
+87107,02-07-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+87107,02-07-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+87107,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+87107,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+87107,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+87488,18-03-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+87831,24-07-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+87831,24-07-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+87933,04-12-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,0,194281
+88327,23-10-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+88327,23-10-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+88327,23-10-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+88327,23-10-14,High Dependency,NA,0,0,1,Invasive only,0,0,194281
+88327,23-10-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+88327,23-10-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+88865,07-01-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+89247,01-11-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+89247,01-11-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+89247,01-11-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+89489,29-05-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+89489,29-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+91658,10-04-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+91658,10-04-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+91658,10-04-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+91658,10-04-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+91658,10-04-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+91685,05-06-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+91685,05-06-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+91850,28-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+94357,07-03-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+94357,07-03-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+94450,29-07-14,High Dependency,NA,0,0,1,Invasive only,0,0,194281
+94450,29-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+94450,29-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+98347,06-07-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+98347,06-07-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+98347,06-07-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+98347,06-07-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+98347,06-07-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+98347,06-07-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+100677,26-03-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+100677,26-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+100677,26-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+100677,26-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+100862,16-01-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+100862,16-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+102892,27-04-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+102892,27-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+102892,27-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+102892,27-04-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+102892,27-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+102892,27-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+104424,13-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+104424,13-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+104424,13-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+104424,13-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+105746,23-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+105746,23-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+106885,10-08-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+106885,10-08-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+106885,10-08-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+107364,06-06-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+107364,06-06-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+108588,08-02-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+108588,08-02-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+108588,08-02-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+108588,08-02-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+108588,08-02-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+109165,17-12-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+109165,17-12-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+109165,17-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+110008,07-01-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+110231,20-02-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+113708,17-06-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+113708,17-06-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+114316,02-01-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+114316,02-01-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+115283,12-05-14,Intensive Care Basic,NA,0,0,1,Invasive only,0,0,194281
+116995,06-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+116995,06-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+117125,28-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+117125,28-07-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+117486,03-06-14,High Dependency Advanced,NA,0,0,1,Neither,0,0,194281
+117486,03-06-14,High Dependency Advanced,NA,0,0,1,Neither,0,0,194281
+117668,14-05-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+117668,14-05-14,Intensive Care Basic,NA,0,1,1,Invasive only,0,0,194281
+117917,29-04-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+118576,21-05-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+118576,21-05-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+118576,21-05-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+119567,17-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+121208,27-12-14,Enhanced Care,NA,0,0,NA,Non-invasive only,0,0,194281
+121208,27-12-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+121208,27-12-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+121208,27-12-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+124019,21-08-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+124019,21-08-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+124981,09-04-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+126494,17-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+126494,17-05-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+126494,17-05-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+129512,30-12-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+130925,26-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+130925,26-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+130925,26-01-14,High Dependency,NA,0,0,1,Invasive only,0,0,194281
+130925,26-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+130925,26-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+130925,26-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+130925,26-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+130925,26-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+130925,26-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+130925,26-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+132519,30-05-14,High Dependency Advanced,NA,0,0,2,Non-invasive only,0,0,194281
+134167,07-08-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+134167,07-08-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+134875,04-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+134875,04-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+134875,04-08-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+134875,04-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+134875,04-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+135597,20-05-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+136114,15-12-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+136114,15-12-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+136286,01-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+136286,01-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+136286,01-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+136286,01-01-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+136286,01-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+136286,01-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+136813,06-02-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+136813,06-02-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+136813,06-02-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+136813,06-02-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+136860,04-03-14,High Dependency Advanced,NA,0,0,NA,Both,1,0,194281
+136860,04-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+136860,04-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+137227,28-05-14,High Dependency Advanced,NA,0,0,1,Non-invasive only,0,0,194281
+137227,28-05-14,High Dependency Advanced,NA,0,0,1,Non-invasive only,0,0,194281
+137227,28-05-14,High Dependency Advanced,NA,0,0,1,Non-invasive only,0,0,194281
+137227,28-05-14,High Dependency Advanced,NA,0,0,1,Non-invasive only,0,0,194281
+137227,28-05-14,High Dependency Advanced,NA,0,0,1,Non-invasive only,0,0,194281
+137227,28-05-14,High Dependency Advanced,NA,0,0,1,Non-invasive only,0,0,194281
+138144,21-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+138144,21-12-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+138144,21-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+139872,16-08-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+139872,16-08-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+139872,16-08-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+139872,16-08-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+139965,04-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+140175,18-07-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+140175,18-07-14,High Dependency Advanced,NA,0,0,2,Both,0,0,194281
+141377,16-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+143007,30-04-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+144569,28-11-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+144569,28-11-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+144625,23-05-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+144625,23-05-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+145764,16-07-14,High Dependency,NA,0,0,2,Neither,0,0,194281
+145764,16-07-14,High Dependency,NA,0,0,2,Neither,0,0,194281
+146719,08-04-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+146719,08-04-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+146783,15-09-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+146783,15-09-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+147593,26-04-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+147593,26-04-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+147711,16-12-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+147711,16-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+147764,13-10-14,Enhanced Care,NA,0,0,NA,Non-invasive only,0,0,194281
+147764,13-10-14,Enhanced Care,NA,0,0,NA,Non-invasive only,0,0,194281
+147764,13-10-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+149513,17-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+149513,17-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+149513,17-12-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+149513,17-12-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+149513,17-12-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+150488,26-04-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+150488,26-04-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+151937,22-05-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+151937,22-05-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+151937,22-05-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+151937,22-05-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+151937,22-05-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+151937,22-05-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+151937,22-05-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+151937,22-05-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+151937,22-05-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+151937,22-05-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+153694,30-05-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+153694,30-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+154752,02-10-14,High Dependency,NA,0,0,2,Both,0,0,194281
+154752,02-10-14,Intensive Care Basic Enhanced,NA,1,0,2,Both,0,0,194281
+154752,02-10-14,Intensive Care Advanced Enhanced,NA,1,0,2,Both,0,0,194281
+154752,02-10-14,High Dependency Advanced,NA,0,0,2,Both,0,0,194281
+156238,06-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+156238,06-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+156238,06-08-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+158875,18-06-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+158875,18-06-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+158898,18-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+158898,18-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+161197,13-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+161197,13-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+161197,13-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+161197,13-12-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+161197,13-12-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+161197,13-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+161467,15-02-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+161467,15-02-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+161467,15-02-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+162512,21-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+162512,21-01-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+163570,03-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+163570,03-07-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+164069,11-06-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+164069,11-06-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+164069,11-06-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+164069,11-06-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+164069,11-06-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+164069,11-06-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+164069,11-06-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+164069,11-06-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+164497,21-01-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+164497,21-01-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+164497,21-01-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+164852,03-11-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+164852,03-11-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,1,194281
+164852,03-11-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,1,194281
+166724,13-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+166724,13-08-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+166724,13-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+166724,13-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+167293,01-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+167293,01-05-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+167293,01-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+167293,01-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+169416,09-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+169416,09-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+169416,09-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+169416,09-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+169416,09-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+169416,09-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+169416,09-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+169416,09-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+169416,09-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+169487,09-01-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+169487,09-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+170172,01-08-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+170336,19-09-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+170336,19-09-14,Enhanced Care,NA,0,0,NA,Non-invasive only,0,0,194281
+170336,19-09-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+170336,19-09-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+171225,30-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+171225,30-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+172747,13-01-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+172747,13-01-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+172937,15-09-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+172937,15-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+172937,15-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+172937,15-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+172937,15-09-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+172937,15-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+172937,15-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+172937,15-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+172937,15-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+172937,15-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+173462,07-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+173462,07-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+173462,07-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+173462,07-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+173462,07-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+173462,07-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+173646,08-06-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+173646,08-06-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+174185,26-09-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+174185,26-09-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+174758,13-04-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+174758,13-04-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+174758,13-04-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+174758,13-04-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+174793,13-07-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+174793,13-07-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+174793,13-07-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+174793,13-07-14,High Dependency Advanced,NA,0,0,2,Both,0,0,194281
+176210,02-01-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+176210,02-01-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+176210,02-01-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+176210,02-01-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+176804,30-03-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+176804,30-03-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+178457,26-05-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+178457,26-05-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+179005,09-10-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+179005,09-10-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+179168,14-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+179168,14-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+179168,14-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+179168,14-05-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+179168,14-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+179168,14-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+179168,14-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+179168,14-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+179168,14-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+182009,29-06-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+182009,29-06-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+184570,27-02-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+184570,27-02-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+185921,13-03-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+185921,13-03-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+185921,13-03-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+185921,13-03-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+185921,13-03-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+185921,13-03-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+187334,05-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+187334,05-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+187334,05-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+187334,05-03-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+187334,05-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+187334,05-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+187334,05-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+187851,09-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+188940,08-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+188940,08-08-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+188940,08-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+189364,29-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+189364,29-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+189364,29-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+189364,29-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+189364,29-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+190317,11-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+190317,11-07-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+190913,03-02-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+190913,03-02-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+190913,03-02-14,Intensive Care Basic,1,1,0,NA,Neither,0,0,194281
+190913,03-02-14,Intensive Care Basic,NA,1,0,NA,Neither,0,0,194281
+190913,03-02-14,Intensive Care Basic,NA,1,0,NA,Neither,0,0,194281
+190913,03-02-14,Intensive Care Basic,NA,1,0,NA,Neither,0,0,194281
+190913,03-02-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+190913,03-02-14,Intensive Care Basic,1,1,0,NA,Neither,0,0,194281
+190913,03-02-14,Intensive Care Basic,NA,1,0,NA,Neither,0,0,194281
+190913,03-02-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+191095,26-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+191095,26-10-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+191095,26-10-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+191095,26-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+191476,27-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+191476,27-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+191476,27-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+191476,27-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+191678,26-05-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+191678,26-05-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+191678,26-05-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+191976,14-11-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+191976,14-11-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+193302,06-05-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+193302,06-05-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+193622,15-04-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+193622,15-04-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+193622,15-04-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+193622,15-04-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+193622,15-04-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+193622,15-04-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+193622,15-04-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+193622,15-04-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+193622,15-04-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+193622,15-04-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+193622,15-04-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+195439,13-06-14,High Dependency Advanced,NA,0,0,2,Both,0,0,194281
+195439,13-06-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+197997,30-09-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+197997,30-09-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+197997,30-09-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+199283,21-03-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+199283,21-03-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+199341,26-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+199341,26-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+199341,26-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+199341,26-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+199341,26-11-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+199341,26-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+199341,26-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+199341,26-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+199341,26-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+200205,24-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+200205,24-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+200205,24-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+200205,24-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+200425,20-11-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+200425,20-11-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+201433,24-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+201433,24-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+201433,24-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,1,194281
+201686,26-11-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+201686,26-11-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+201686,26-11-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+201686,26-11-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+201686,26-11-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+201686,26-11-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+201686,26-11-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+201686,26-11-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+202240,22-11-14,High Dependency Advanced,NA,0,0,1,Neither,0,0,194281
+202240,22-11-14,High Dependency Advanced,NA,0,0,1,Neither,0,0,194281
+202976,04-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+204607,25-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+204607,25-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+204607,25-05-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+204607,25-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+204607,25-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+204607,25-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+204607,25-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+204607,25-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+204613,11-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+206909,17-06-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+206909,17-06-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+207327,15-08-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+207327,15-08-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+207327,15-08-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+207327,15-08-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+207327,15-08-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+207327,15-08-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+207327,15-08-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+208114,16-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+208114,16-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+208114,16-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+208114,16-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+208114,16-09-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+208114,16-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+208711,31-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+208711,31-12-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+209490,04-12-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+209490,04-12-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+209490,04-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+209490,04-12-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+209490,04-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+209490,04-12-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+209490,04-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+209490,04-12-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+209490,04-12-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+210132,19-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+210132,19-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+214415,09-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+214415,09-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+214415,09-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+216205,24-11-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+216254,03-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+216254,03-01-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+216684,10-01-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+218423,28-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+218423,28-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+218423,28-02-14,High Dependency Advanced,NA,0,0,NA,Both,1,0,194281
+218423,28-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+219577,01-06-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+219577,01-06-14,Enhanced Care,NA,0,0,1,Both,0,0,194281
+219577,01-06-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+219577,01-06-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+221053,24-12-14,High Dependency,NA,0,0,1,Invasive only,0,0,194281
+221053,24-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+221053,24-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+221053,24-12-14,High Dependency,NA,0,0,1,Invasive only,0,0,194281
+222460,15-02-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+222460,15-02-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+223565,27-12-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+223565,27-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+223565,27-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+223565,27-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+223565,27-12-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+223565,27-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+223565,27-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+224775,14-02-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+224775,14-02-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+225103,05-02-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+225103,05-02-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+225103,05-02-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+225103,05-02-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+225103,05-02-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+227256,08-04-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+227256,08-04-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+227412,02-11-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+227412,02-11-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+227412,02-11-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+227412,02-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+227412,02-11-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+229582,28-03-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+229582,28-03-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+229582,28-03-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+230219,27-06-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+230219,27-06-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+230390,06-04-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+230390,06-04-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+230390,06-04-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+230836,14-11-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+230836,14-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+230836,14-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+230836,14-11-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+230836,14-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+231006,07-05-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+231006,07-05-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+231228,04-09-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+231228,04-09-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+231633,14-11-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+231633,14-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+231718,07-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+231718,07-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+231718,07-09-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+231718,07-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+231718,07-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+232734,25-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+232734,25-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+233599,07-11-14,Enhanced Care,NA,0,0,NA,Non-invasive only,0,0,194281
+233599,07-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+233599,07-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+233599,07-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+236999,07-01-14,Unable to Group,NA,1,0,1,Invasive only,0,0,194281
+236999,07-01-14,Unable to Group,NA,1,0,1,Invasive only,0,0,194281
+236999,07-01-14,Unable to Group,NA,1,0,1,Invasive only,0,0,194281
+238831,12-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+238831,12-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+238831,12-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+238831,12-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+241380,21-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+241380,21-01-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+241380,21-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+241380,21-01-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+241688,07-05-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+241688,07-05-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+243093,16-07-14,Unable to Group,NA,0,0,NA,Neither,0,0,194281
+243093,16-07-14,Unable to Group,NA,0,0,NA,Neither,0,0,194281
+245420,14-08-14,Enhanced Care,NA,0,0,1,Neither,0,0,194281
+245420,14-08-14,Enhanced Care,NA,0,0,1,Neither,0,0,194281
+246148,23-09-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+246148,23-09-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+246148,23-09-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+246148,23-09-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+246148,23-09-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+247573,16-12-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+247573,16-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+247573,16-12-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+247573,16-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+247573,16-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+248865,17-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+248865,17-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+248865,17-01-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+250555,08-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+250555,08-01-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+252039,05-02-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+252039,05-02-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+252039,05-02-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+252039,05-02-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+252039,05-02-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+252039,05-02-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+252039,05-02-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+254532,12-02-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+254532,12-02-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+254532,12-02-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+254532,12-02-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+254532,12-02-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+257061,01-04-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+257061,01-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+257061,01-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+257061,01-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+257061,01-04-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+257061,01-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+257061,01-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+257061,01-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+257061,01-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+257061,01-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+257061,01-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+257061,01-04-14,Intensive Care Basic,NA,1,1,NA,Both,0,0,194281
+257061,01-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+257061,01-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+259444,19-12-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+259444,19-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+259444,19-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+259444,19-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+259444,19-12-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+259500,22-11-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+259500,22-11-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+259500,22-11-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+259500,22-11-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+261512,09-01-14,High Dependency,NA,0,0,1,Both,0,0,194281
+261512,09-01-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+261512,09-01-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+261512,09-01-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+265151,29-01-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+265151,29-01-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+265151,29-01-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+265151,29-01-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+265151,29-01-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+265151,29-01-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+265151,29-01-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+265151,29-01-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+265151,29-01-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+265151,29-01-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+265151,29-01-14,High Dependency,NA,0,0,1,Both,0,0,194281
+265151,29-01-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+265151,29-01-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+265524,21-04-14,High Dependency Advanced,NA,0,0,2,Non-invasive only,0,0,194281
+265524,21-04-14,High Dependency Advanced,NA,0,0,2,Non-invasive only,0,0,194281
+265524,21-04-14,High Dependency Advanced,NA,0,0,2,Non-invasive only,0,0,194281
+265524,21-04-14,High Dependency Advanced,NA,0,0,2,Non-invasive only,0,0,194281
+265524,21-04-14,High Dependency Advanced,NA,0,0,2,Non-invasive only,0,0,194281
+265524,21-04-14,High Dependency Advanced,NA,0,0,2,Non-invasive only,0,0,194281
+266636,08-04-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+266636,08-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+266636,08-04-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+266636,08-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+266636,08-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+266636,08-04-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+266636,08-04-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+266636,08-04-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+266636,08-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+267427,22-06-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+267427,22-06-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+270146,21-05-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+270146,21-05-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+270146,21-05-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+275397,30-06-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+277370,02-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+277370,02-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+277370,02-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+277370,02-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+278302,25-11-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+278302,25-11-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+278302,25-11-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+279611,20-01-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+279611,20-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+284383,21-03-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+284908,13-06-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+284908,13-06-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+284908,13-06-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+284908,13-06-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+284908,13-06-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+284908,13-06-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+284908,13-06-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+284908,13-06-14,High Dependency,NA,0,0,1,Invasive only,0,0,194281
+284908,13-06-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+284908,13-06-14,High Dependency,NA,0,0,1,Invasive only,0,0,194281
+284908,13-06-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+284908,13-06-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+284908,13-06-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+284908,13-06-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+287178,27-03-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+287178,27-03-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+289532,09-02-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+289532,09-02-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+289532,09-02-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+289532,09-02-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+289532,09-02-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+289532,09-02-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+289532,09-02-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+289532,09-02-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+289532,09-02-14,High Dependency,NA,0,0,2,Both,0,0,194281
+289532,09-02-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+289532,09-02-14,High Dependency Advanced,NA,0,0,2,Both,0,0,194281
+290549,17-01-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+290549,17-01-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+290549,17-01-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+290549,17-01-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+290549,17-01-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+290549,17-01-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+290549,17-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+290901,13-11-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+293362,02-07-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+293362,02-07-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+293552,12-08-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+293552,12-08-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+293888,08-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+293888,08-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+293888,08-05-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+294004,07-08-14,Unable to Group,NA,1,0,1,Both,0,0,194281
+294004,07-08-14,Unable to Group,NA,0,0,1,Both,0,0,194281
+294004,07-08-14,Unable to Group,NA,1,0,1,Both,0,0,194281
+294004,07-08-14,Unable to Group,NA,0,0,1,Both,0,0,194281
+294004,07-08-14,Unable to Group,NA,1,0,1,Both,0,0,194281
+294004,07-08-14,Unable to Group,NA,1,0,1,Both,0,0,194281
+294004,07-08-14,Unable to Group,NA,0,0,1,Both,0,0,194281
+295212,04-02-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+295212,04-02-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+295212,04-02-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+297131,25-08-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+297131,25-08-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+297131,25-08-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+297131,25-08-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+298291,02-06-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+298291,02-06-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+298291,02-06-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+298291,02-06-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+298291,02-06-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+299931,30-07-14,High Dependency Advanced,NA,0,0,1,Non-invasive only,0,0,194281
+299931,30-07-14,High Dependency Advanced,NA,0,0,1,Non-invasive only,0,0,194281
+299931,30-07-14,High Dependency Advanced,NA,0,0,1,Non-invasive only,0,0,194281
+302578,09-08-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+302578,09-08-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+302578,09-08-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+302578,09-08-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+302578,09-08-14,Enhanced Care,NA,0,0,1,Both,0,0,194281
+302578,09-08-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+303983,02-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+303983,02-07-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+303983,02-07-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+303983,02-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+303983,02-07-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+305720,23-03-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+305720,23-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+305720,23-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+305720,23-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+305720,23-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+305720,23-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+309587,05-01-14,Enhanced Care,NA,0,0,NA,Non-invasive only,0,0,194281
+309587,05-01-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+309587,05-01-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+309587,05-01-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+309587,05-01-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+311713,07-07-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+311713,07-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+311713,07-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+311713,07-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+311713,07-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+311713,07-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+311713,07-07-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+311822,13-02-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+311822,13-02-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+315268,04-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+315268,04-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+315268,04-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+315268,04-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+315268,04-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+315268,04-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+315268,04-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+315268,04-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+315268,04-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+315268,04-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+315467,31-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+315467,31-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+315467,31-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+315467,31-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+319366,02-05-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+319366,02-05-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+319366,02-05-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+319366,02-05-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+319366,02-05-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+321078,16-07-14,Enhanced Care,NA,0,0,2,Neither,0,0,194281
+321078,16-07-14,Enhanced Care,NA,0,0,2,Neither,0,0,194281
+325619,18-08-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+325619,18-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+325619,18-08-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+325619,18-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+325619,18-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+325619,18-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+325619,18-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+325619,18-08-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+325619,18-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+325619,18-08-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+326861,21-07-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+326861,21-07-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+326861,21-07-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+329650,02-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+329650,02-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+329650,02-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+329650,02-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+329650,02-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+329650,02-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+329650,02-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+329650,02-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+329650,02-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+330045,19-03-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+330045,19-03-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+330045,19-03-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+330045,19-03-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+330045,19-03-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+330045,19-03-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+330045,19-03-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+330045,19-03-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+330045,19-03-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+333584,21-10-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+333584,21-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+333584,21-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+333584,21-10-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+333584,21-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+333584,21-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+333584,21-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+333966,15-01-14,High Dependency,NA,0,0,1,Both,0,0,194281
+333966,15-01-14,High Dependency,NA,0,0,1,Both,0,0,194281
+333966,15-01-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+336942,04-02-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+339682,13-03-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+339682,13-03-14,Enhanced Care,NA,0,0,1,Both,0,0,194281
+339682,13-03-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+339682,13-03-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+342425,08-10-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+342425,08-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+342425,08-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+342425,08-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+342425,08-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+342425,08-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+342425,08-10-14,Intensive Care Basic,NA,0,0,NA,Invasive only,0,0,194281
+342425,08-10-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+342425,08-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+342425,08-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+342425,08-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+342463,19-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+342463,19-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+342463,19-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+342463,19-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+342463,19-02-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+342463,19-02-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+342463,19-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+342463,19-02-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+342463,19-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+342463,19-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+342463,19-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+342463,19-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+342463,19-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+342463,19-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+342463,19-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+342463,19-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+342463,19-02-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+342463,19-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+342463,19-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+342463,19-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+342463,19-02-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+342463,19-02-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+342463,19-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+342463,19-02-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+343464,28-01-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+343464,28-01-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+343464,28-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+343464,28-01-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+343464,28-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+343464,28-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+343464,28-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+343572,17-05-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+343572,17-05-14,Enhanced Care,NA,0,0,NA,Non-invasive only,0,0,194281
+344331,09-09-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+344331,09-09-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+344331,09-09-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+344331,09-09-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+344331,09-09-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+344331,09-09-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+344331,09-09-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+344331,09-09-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+344331,09-09-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+347238,25-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+347238,25-10-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+347238,25-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+347238,25-10-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+347238,25-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+347238,25-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+347238,25-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+348779,30-10-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+348973,10-04-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+348973,10-04-14,High Dependency Advanced,NA,0,1,NA,Neither,0,0,194281
+352383,10-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+352383,10-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+352383,10-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+352383,10-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+352383,10-06-14,Intensive Care Basic,NA,0,0,NA,Non-invasive only,0,0,194281
+352383,10-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+352383,10-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+352383,10-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+352383,10-06-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+353973,17-12-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+353973,17-12-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+353973,17-12-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+353973,17-12-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+353973,17-12-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+353973,17-12-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+354908,06-12-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+354908,06-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+354908,06-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+354908,06-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+354908,06-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+356699,02-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+356699,02-12-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+356699,02-12-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+356699,02-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+356699,02-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357289,30-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+357306,24-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+357306,24-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+357306,24-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+358569,15-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+358569,15-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+358569,15-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+358569,15-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+358569,15-11-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+358569,15-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+358569,15-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+358569,15-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+361902,27-05-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+361902,27-05-14,Intensive Care Basic,NA,0,0,1,Both,0,0,194281
+361902,27-05-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+364932,20-02-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+364932,20-02-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+366297,19-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+366297,19-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+366297,19-03-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+366297,19-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+370210,15-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+370210,15-11-14,Enhanced Care,NA,0,0,NA,Non-invasive only,0,0,194281
+370210,15-11-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+373874,05-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+373874,05-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+373874,05-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+373874,05-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+375397,11-04-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+375397,11-04-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+385036,29-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+385036,29-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+385036,29-09-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+386137,28-03-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+386137,28-03-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+386137,28-03-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+386137,28-03-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+386137,28-03-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+386137,28-03-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+386199,11-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+386199,11-12-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+386199,11-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+386199,11-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+386766,31-03-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+386766,31-03-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+391507,25-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+391507,25-01-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+391507,25-01-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+391507,25-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+393072,04-06-14,Intensive Care Basic Enhanced,NA,1,0,1,Both,0,0,194281
+393072,04-06-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+393072,04-06-14,Enhanced Care,NA,0,0,1,Both,0,0,194281
+393072,04-06-14,Intensive Care Advanced,NA,1,0,1,Both,0,0,194281
+393072,04-06-14,Enhanced Care,NA,0,0,1,Both,0,0,194281
+393072,04-06-14,Intensive Care Advanced,NA,1,0,1,Both,0,0,194281
+393072,04-06-14,Enhanced Care,NA,0,0,1,Both,0,0,194281
+394619,20-06-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+394619,20-06-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+397923,01-04-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+397923,01-04-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+398312,08-11-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+398312,08-11-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+398312,08-11-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+398312,08-11-14,Enhanced Care,NA,0,0,2,Neither,0,0,194281
+398312,08-11-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+398312,08-11-14,High Dependency Advanced,NA,0,0,2,Neither,0,0,194281
+401317,05-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+401317,05-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+401317,05-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+401317,05-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+401317,05-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+401317,05-03-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+401317,05-03-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+401317,05-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+401317,05-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+401921,10-10-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+401921,10-10-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+403307,18-05-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+403307,18-05-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+403307,18-05-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+403307,18-05-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+405097,31-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+405097,31-07-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+405097,31-07-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+405400,27-09-14,Unable to Group,NA,0,0,NA,Neither,0,0,194281
+405400,27-09-14,Unable to Group,NA,0,0,NA,Neither,0,0,194281
+405400,27-09-14,Unable to Group,NA,0,0,NA,Neither,0,0,194281
+405400,27-09-14,Unable to Group,NA,0,0,NA,Neither,0,0,194281
+405400,27-09-14,Unable to Group,NA,0,0,NA,Neither,0,0,194281
+405400,27-09-14,Unable to Group,NA,0,0,NA,Neither,0,0,194281
+405519,28-04-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+405519,28-04-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+405982,13-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+405982,13-09-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+405982,13-09-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+405982,13-09-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+405982,13-09-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+405982,13-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+405982,13-09-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+405982,13-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+405982,13-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+405982,13-09-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+407396,17-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+407396,17-10-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+407396,17-10-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+407396,17-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+407396,17-10-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+407396,17-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+407396,17-10-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+407396,17-10-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+407396,17-10-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+407396,17-10-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+407396,17-10-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+407396,17-10-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+407396,17-10-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+407396,17-10-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+407396,17-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+407396,17-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+407396,17-10-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+407396,17-10-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+410263,27-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+410263,27-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+411432,19-04-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+411432,19-04-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+411432,19-04-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+411432,19-04-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+412623,24-01-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+412623,24-01-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+412623,24-01-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+414520,03-10-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+414520,03-10-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+414932,19-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+414932,19-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+414932,19-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+414932,19-10-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+414932,19-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+415861,30-03-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,0,194281
+415861,30-03-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,0,194281
+415861,30-03-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,0,194281
+415861,30-03-14,Intensive Care Basic,NA,0,0,2,Invasive only,0,0,194281
+415861,30-03-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,0,194281
+415861,30-03-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,0,194281
+415861,30-03-14,Intensive Care Basic Enhanced,NA,1,0,2,Invasive only,0,0,194281
+415861,30-03-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,0,194281
+415861,30-03-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,0,194281
+415861,30-03-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,1,194281
+417981,09-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+417981,09-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+417981,09-12-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+421126,06-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+421126,06-11-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+421192,31-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+421192,31-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+421192,31-01-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+421192,31-01-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+424267,14-02-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+424267,14-02-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+424267,14-02-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+424267,14-02-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+424267,14-02-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+424267,14-02-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+429372,21-06-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+429372,21-06-14,Intensive Care Basic Enhanced,NA,1,0,1,Both,0,0,194281
+429372,21-06-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+429372,21-06-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+429372,21-06-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+429372,21-06-14,Intensive Care Basic Enhanced,NA,1,0,1,Both,0,0,194281
+429372,21-06-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+429372,21-06-14,Intensive Care Basic Enhanced,NA,1,0,1,Both,0,0,194281
+429372,21-06-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+429372,21-06-14,Intensive Care Basic Enhanced,NA,1,0,1,Both,0,0,194281
+429372,21-06-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+429372,21-06-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+429372,21-06-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+429372,21-06-14,Intensive Care Basic Enhanced,NA,1,0,1,Both,0,0,194281
+429372,21-06-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+430111,22-09-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+430111,22-09-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+430111,22-09-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+434640,05-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+434640,05-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+434640,05-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+434640,05-05-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+435864,01-07-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+435864,01-07-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+435864,01-07-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+435864,01-07-14,High Dependency,NA,0,0,1,Both,0,0,194281
+435864,01-07-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+437006,04-03-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+437006,04-03-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+437360,13-10-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+438763,23-01-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+438763,23-01-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+438763,23-01-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+438763,23-01-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+438763,23-01-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+438763,23-01-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+438763,23-01-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+438763,23-01-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+438763,23-01-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+438763,23-01-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+439928,23-11-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+442212,24-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+442212,24-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+442212,24-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+442212,24-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+442212,24-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+443570,13-01-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+443570,13-01-14,Intensive Care Basic,NA,0,1,NA,Both,0,0,194281
+443570,13-01-14,Intensive Care Basic,NA,0,1,NA,Both,0,0,194281
+443570,13-01-14,Intensive Care Basic,NA,0,1,NA,Both,0,0,194281
+443570,13-01-14,Intensive Care Basic,NA,0,1,NA,Both,0,0,194281
+443570,13-01-14,Intensive Care Basic,NA,0,1,NA,Both,0,0,194281
+446415,17-09-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+446415,17-09-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+446415,17-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+446415,17-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+446415,17-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+446415,17-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+448907,11-03-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+448907,11-03-14,Intensive Care Advanced,NA,1,0,NA,Both,0,1,194281
+448907,11-03-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+448907,11-03-14,Intensive Care Advanced,NA,1,0,NA,Both,0,1,194281
+448907,11-03-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+448907,11-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+448907,11-03-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+448907,11-03-14,Intensive Care Advanced,NA,1,0,NA,Both,0,1,194281
+448907,11-03-14,Intensive Care Advanced,NA,1,0,NA,Both,0,1,194281
+448907,11-03-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+448907,11-03-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+448907,11-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+448907,11-03-14,Intensive Care Advanced,NA,1,0,NA,Both,0,1,194281
+448907,11-03-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+448907,11-03-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+448907,11-03-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+448907,11-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+448907,11-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+448907,11-03-14,Intensive Care Advanced,NA,1,0,NA,Both,0,1,194281
+448907,11-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+448907,11-03-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+448994,07-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+448994,07-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+448994,07-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+448994,07-07-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+451355,24-05-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+451355,24-05-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+451355,24-05-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+451355,24-05-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+451355,24-05-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+451355,24-05-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+451355,24-05-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+451355,24-05-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+451355,24-05-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+451355,24-05-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+452633,22-03-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+452633,22-03-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+452633,22-03-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+452633,22-03-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+452633,22-03-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+452633,22-03-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+452633,22-03-14,High Dependency,NA,0,0,1,Both,0,0,194281
+452633,22-03-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+453310,21-02-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+453310,21-02-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+453798,22-11-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+453798,22-11-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+453798,22-11-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+453798,22-11-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+454454,19-11-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+454454,19-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+454454,19-11-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+454454,19-11-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+454454,19-11-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+454454,19-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+459825,20-03-14,Intensive Care - ECMO/ECLS,NA,0,0,2,Non-invasive only,0,0,194281
+459825,20-03-14,Intensive Care Basic Enhanced,NA,1,0,2,Non-invasive only,0,0,194281
+459825,20-03-14,Intensive Care Advanced,NA,1,0,2,Non-invasive only,0,1,194281
+459825,20-03-14,Intensive Care Basic,NA,1,0,2,Non-invasive only,0,0,194281
+459825,20-03-14,Intensive Care Advanced,NA,1,0,2,Non-invasive only,0,1,194281
+459825,20-03-14,Intensive Care Advanced,NA,1,0,2,Non-invasive only,0,1,194281
+459825,20-03-14,Intensive Care - ECMO/ECLS,NA,0,0,2,Non-invasive only,0,0,194281
+459825,20-03-14,Intensive Care - ECMO/ECLS,NA,0,0,2,Non-invasive only,0,0,194281
+459825,20-03-14,Intensive Care Advanced,NA,1,0,2,Non-invasive only,0,1,194281
+459825,20-03-14,Intensive Care - ECMO/ECLS,NA,0,0,2,Non-invasive only,0,0,194281
+459825,20-03-14,Intensive Care Advanced,NA,1,0,2,Non-invasive only,0,1,194281
+459825,20-03-14,Intensive Care Basic Enhanced,NA,1,0,2,Non-invasive only,0,1,194281
+459825,20-03-14,Intensive Care Basic Enhanced,NA,1,0,2,Non-invasive only,0,0,194281
+459825,20-03-14,Intensive Care Advanced,NA,1,0,2,Non-invasive only,0,1,194281
+459825,20-03-14,Intensive Care - ECMO/ECLS,NA,0,0,2,Non-invasive only,0,0,194281
+459825,20-03-14,Intensive Care Advanced,NA,1,0,2,Non-invasive only,0,1,194281
+459825,20-03-14,Intensive Care - ECMO/ECLS,NA,0,0,2,Non-invasive only,0,0,194281
+459825,20-03-14,Intensive Care - ECMO/ECLS,NA,0,0,2,Non-invasive only,0,0,194281
+459825,20-03-14,Intensive Care Advanced,NA,1,0,2,Non-invasive only,0,1,194281
+459825,20-03-14,Intensive Care - ECMO/ECLS,NA,0,0,2,Non-invasive only,0,0,194281
+459825,20-03-14,Intensive Care Advanced,NA,1,0,2,Non-invasive only,0,1,194281
+459825,20-03-14,Intensive Care - ECMO/ECLS,NA,0,0,2,Non-invasive only,0,0,194281
+459825,20-03-14,Intensive Care Basic Enhanced,NA,1,0,2,Non-invasive only,0,1,194281
+459825,20-03-14,Intensive Care - ECMO/ECLS,NA,0,0,2,Non-invasive only,0,0,194281
+460527,29-07-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+460527,29-07-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+460527,29-07-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+460527,29-07-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+460527,29-07-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+460527,29-07-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+460527,29-07-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+460527,29-07-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+460527,29-07-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+466611,19-10-14,High Dependency Advanced,NA,0,0,2,Invasive only,0,0,194281
+466611,19-10-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,0,194281
+466611,19-10-14,High Dependency Advanced,NA,0,0,2,Invasive only,0,0,194281
+466611,19-10-14,High Dependency Advanced,NA,0,0,2,Invasive only,0,0,194281
+466611,19-10-14,Enhanced Care,NA,0,0,2,Invasive only,0,0,194281
+466611,19-10-14,High Dependency Advanced,NA,0,0,2,Invasive only,0,0,194281
+467341,27-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+467341,27-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+467341,27-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+467341,27-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+467341,27-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+467341,27-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+469037,19-07-14,Enhanced Care,NA,0,0,NA,Non-invasive only,0,0,194281
+469037,19-07-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+469564,15-01-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+469564,15-01-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+472717,04-11-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+472717,04-11-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+472717,04-11-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+472717,04-11-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+475265,05-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+475265,05-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+475265,05-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+475265,05-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+475265,05-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+475265,05-09-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+475265,05-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+475265,05-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+475265,05-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+475265,05-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+475265,05-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+475265,05-09-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+475265,05-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+475265,05-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+475265,05-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+475265,05-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+475265,05-09-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+475265,05-09-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+475851,25-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+475851,25-11-14,High Dependency,NA,0,0,NA,Non-invasive only,0,0,194281
+475851,25-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+475851,25-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+475851,25-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+475851,25-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+475851,25-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+475851,25-11-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+480043,13-10-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+480043,13-10-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+480043,13-10-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+480043,13-10-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+480043,13-10-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+480043,13-10-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+480945,02-05-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+480945,02-05-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+480945,02-05-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+480945,02-05-14,Intensive Care Advanced,NA,1,0,1,Both,0,0,194281
+480945,02-05-14,Intensive Care Advanced,NA,1,0,1,Both,0,1,194281
+480945,02-05-14,Intensive Care Advanced,NA,1,0,1,Both,0,0,194281
+480945,02-05-14,Intensive Care Advanced,NA,1,0,1,Both,0,0,194281
+480945,02-05-14,Intensive Care Advanced,NA,1,0,1,Both,0,1,194281
+480945,02-05-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+480945,02-05-14,Intensive Care Advanced,NA,1,0,1,Both,0,0,194281
+480945,02-05-14,Intensive Care Advanced,NA,1,0,1,Both,0,0,194281
+480945,02-05-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+480945,02-05-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+480945,02-05-14,Intensive Care Advanced,NA,1,0,1,Both,0,0,194281
+480945,02-05-14,Intensive Care Advanced,NA,1,0,1,Both,0,0,194281
+480945,02-05-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+480945,02-05-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+480945,02-05-14,Intensive Care Advanced,NA,1,0,1,Both,0,0,194281
+480945,02-05-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+480945,02-05-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+480945,02-05-14,Intensive Care Advanced,NA,1,0,1,Both,0,0,194281
+483319,02-06-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+483319,02-06-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+483319,02-06-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+483319,02-06-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+490945,06-03-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+490945,06-03-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+490945,06-03-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+490945,06-03-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+492834,12-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+492834,12-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+497344,27-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+497344,27-02-14,High Dependency Advanced,NA,1,0,NA,Both,0,0,194281
+497344,27-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+497344,27-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+497344,27-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+497344,27-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+500306,08-11-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+500306,08-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+500306,08-11-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+501740,05-02-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+501740,05-02-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+501740,05-02-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+501740,05-02-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+501740,05-02-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+501740,05-02-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+501740,05-02-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+501740,05-02-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+501740,05-02-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+501740,05-02-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+501740,05-02-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+501740,05-02-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+501740,05-02-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+502823,23-11-14,Intensive Care Basic,NA,0,1,NA,Invasive only,0,0,194281
+502823,23-11-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+502823,23-11-14,Intensive Care Basic,NA,0,1,NA,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Advanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+506421,08-04-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+507541,24-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+507541,24-04-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+507541,24-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+507541,24-04-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+507541,24-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+507541,24-04-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+507541,24-04-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+507541,24-04-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+507541,24-04-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+509862,10-03-14,Intensive Care Advanced,NA,1,0,2,Invasive only,0,0,194281
+509862,10-03-14,Intensive Care Basic Enhanced,NA,1,0,2,Invasive only,0,0,194281
+510437,21-05-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+510437,21-05-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+510437,21-05-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+510437,21-05-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+510437,21-05-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+510437,21-05-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+510708,03-10-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+510708,03-10-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+510708,03-10-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+513483,12-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+513483,12-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+513483,12-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+513483,12-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+513483,12-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+513483,12-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+513483,12-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+513483,12-03-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+513483,12-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+516049,26-11-14,High Dependency,NA,0,0,1,Invasive only,0,0,194281
+516049,26-11-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+516049,26-11-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+516049,26-11-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+516049,26-11-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+516049,26-11-14,High Dependency,NA,0,0,1,Invasive only,0,0,194281
+516049,26-11-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+516049,26-11-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+516049,26-11-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+516049,26-11-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+516049,26-11-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+516049,26-11-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+516049,26-11-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+516049,26-11-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+516049,26-11-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+521958,10-09-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+521958,10-09-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+521958,10-09-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+521958,10-09-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+521958,10-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+521958,10-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+522643,29-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+522643,29-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+522643,29-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+522643,29-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+522643,29-09-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+522643,29-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,0,1,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,0,1,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,0,1,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,0,1,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,1,1,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,0,1,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,0,1,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,0,1,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,0,1,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,0,1,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,0,1,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,0,1,NA,Invasive only,0,0,194281
+523521,06-07-14,Intensive Care Basic,NA,0,1,NA,Invasive only,0,0,194281
+524336,16-01-14,Intensive Care Basic Enhanced,NA,1,0,2,Both,0,0,194281
+524336,16-01-14,Intensive Care Basic Enhanced,NA,1,0,2,Both,0,0,194281
+524336,16-01-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+524336,16-01-14,Intensive Care Basic Enhanced,NA,1,0,2,Both,0,0,194281
+524336,16-01-14,High Dependency,NA,0,0,2,Both,0,0,194281
+524336,16-01-14,Intensive Care Basic Enhanced,NA,1,0,2,Both,0,1,194281
+524336,16-01-14,Intensive Care Basic Enhanced,NA,1,0,2,Both,0,1,194281
+524336,16-01-14,High Dependency Advanced,NA,0,0,2,Both,0,0,194281
+524336,16-01-14,Intensive Care Basic Enhanced,NA,1,0,2,Both,0,0,194281
+524336,16-01-14,Intensive Care Basic Enhanced,NA,1,0,2,Both,0,0,194281
+524336,16-01-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+524336,16-01-14,Intensive Care Basic Enhanced,NA,1,0,2,Both,0,0,194281
+524336,16-01-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+524336,16-01-14,Intensive Care Basic Enhanced,NA,1,0,2,Both,0,0,194281
+524336,16-01-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+524336,16-01-14,Intensive Care Basic Enhanced,NA,1,0,2,Both,0,0,194281
+524336,16-01-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+524336,16-01-14,Intensive Care Basic Enhanced,NA,1,0,2,Both,0,0,194281
+524336,16-01-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+525457,23-09-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+525457,23-09-14,Enhanced Care,NA,0,0,NA,Non-invasive only,0,0,194281
+525457,23-09-14,Enhanced Care,NA,0,0,NA,Non-invasive only,0,0,194281
+525457,23-09-14,Enhanced Care,NA,0,0,NA,Non-invasive only,0,0,194281
+525457,23-09-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+525476,30-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+525476,30-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+525476,30-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+525476,30-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+525476,30-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+525476,30-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+529063,22-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+529063,22-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+529063,22-12-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+529063,22-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+529063,22-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+529063,22-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+529063,22-12-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+529063,22-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+529063,22-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+532236,06-11-14,High Dependency Advanced,NA,0,0,2,Non-invasive only,0,0,194281
+532236,06-11-14,High Dependency Advanced,NA,0,0,2,Non-invasive only,0,0,194281
+532236,06-11-14,High Dependency Advanced,NA,0,0,2,Non-invasive only,0,0,194281
+536894,17-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+536894,17-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+536894,17-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+536894,17-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+536894,17-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+536894,17-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+536894,17-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+536894,17-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+536894,17-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+536894,17-06-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+539689,12-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+539689,12-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+539689,12-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+539689,12-08-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+539689,12-08-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+539689,12-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+539689,12-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+539689,12-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+539689,12-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+539689,12-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+539689,12-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+539689,12-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+539689,12-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+539689,12-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+539689,12-08-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+539689,12-08-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+539689,12-08-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+539689,12-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+539689,12-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+539689,12-08-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+539689,12-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+539689,12-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+539689,12-08-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+540201,12-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+540201,12-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+540201,12-11-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+540201,12-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+540201,12-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+540201,12-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+540201,12-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+540201,12-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+540201,12-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+540201,12-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+540201,12-11-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+540201,12-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+540201,12-11-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+541968,04-02-14,Intensive Care Basic,NA,0,1,NA,Both,0,0,194281
+541968,04-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+541968,04-02-14,Intensive Care Basic,NA,0,1,NA,Both,0,0,194281
+541968,04-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+541968,04-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+541968,04-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+541968,04-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+541968,04-02-14,Intensive Care Basic,NA,0,1,NA,Both,0,0,194281
+541968,04-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+541968,04-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+541968,04-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+541968,04-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+541968,04-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+541968,04-02-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+541968,04-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+542697,25-06-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+542697,25-06-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+542697,25-06-14,High Dependency Advanced,NA,0,0,2,Both,0,0,194281
+542697,25-06-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+542697,25-06-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+542697,25-06-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+542697,25-06-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+545922,28-02-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+545922,28-02-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+545922,28-02-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+545922,28-02-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+545922,28-02-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+545922,28-02-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+545922,28-02-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+545922,28-02-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+545922,28-02-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+545922,28-02-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+545922,28-02-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+548840,10-09-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+548840,10-09-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+548840,10-09-14,Intensive Care Basic,NA,1,0,2,Both,0,0,194281
+549719,10-01-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+549719,10-01-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+549719,10-01-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+554889,14-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+554889,14-09-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+554889,14-09-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+556242,19-07-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+556242,19-07-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+556316,03-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+556316,03-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+556316,03-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+556316,03-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+556316,03-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+556316,03-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+556316,03-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+556316,03-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+556316,03-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+556316,03-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+556316,03-01-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+559371,10-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+559371,10-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+559371,10-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+559371,10-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+559371,10-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+559371,10-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+559371,10-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+559371,10-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+559371,10-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+559395,07-04-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+559395,07-04-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+559395,07-04-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+559395,07-04-14,High Dependency,NA,0,0,1,Invasive only,0,0,194281
+559395,07-04-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+559395,07-04-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+559395,07-04-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+559395,07-04-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+559395,07-04-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+559395,07-04-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+559395,07-04-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+559395,07-04-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+563266,02-04-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+563266,02-04-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+563266,02-04-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+563266,02-04-14,Enhanced Care,NA,0,0,NA,Non-invasive only,0,0,194281
+563266,02-04-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+563266,02-04-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+563266,02-04-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+564470,13-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+564470,13-03-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+564470,13-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+564470,13-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+564470,13-03-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+564470,13-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+564470,13-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+564470,13-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+564470,13-03-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+564470,13-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+564470,13-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+564470,13-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+567635,25-02-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+567635,25-02-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+568667,04-07-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+568667,04-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+568667,04-07-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+568667,04-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+568667,04-07-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+568667,04-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+568667,04-07-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+568667,04-07-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+568667,04-07-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+568667,04-07-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+568667,04-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+572045,21-08-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+572045,21-08-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+575132,31-05-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+575132,31-05-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+575132,31-05-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+575132,31-05-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+575132,31-05-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+575132,31-05-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+575132,31-05-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+575132,31-05-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+575132,31-05-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+575132,31-05-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+575599,16-12-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+575599,16-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+575599,16-12-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+579300,23-06-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+579300,23-06-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+579300,23-06-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+579300,23-06-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+579300,23-06-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+579300,23-06-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+582311,08-08-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+582311,08-08-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+584219,13-06-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+584219,13-06-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+584219,13-06-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+584219,13-06-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+584219,13-06-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+584219,13-06-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+584219,13-06-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+584450,08-04-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,1,194281
+584450,08-04-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+584450,08-04-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,1,194281
+584450,08-04-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+584450,08-04-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,1,194281
+584450,08-04-14,Intensive Care Advanced Enhanced,NA,1,0,NA,Invasive only,0,1,194281
+585428,03-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+585428,03-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+585428,03-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+585428,03-01-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+585428,03-01-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+588815,11-12-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+588815,11-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+589305,18-06-14,Enhanced Care,NA,0,0,2,Invasive only,0,0,194281
+589305,18-06-14,Intensive Care Advanced,NA,1,0,2,Invasive only,0,0,194281
+589305,18-06-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,0,194281
+589305,18-06-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,0,194281
+589305,18-06-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,0,194281
+589305,18-06-14,Enhanced Care,NA,0,0,2,Invasive only,0,0,194281
+589305,18-06-14,Enhanced Care,NA,0,0,2,Invasive only,0,0,194281
+589305,18-06-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,0,194281
+589305,18-06-14,Intensive Care Basic,NA,1,0,2,Invasive only,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+593491,29-07-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,0,1,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,0,1,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,0,1,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,0,1,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,0,1,NA,Both,0,0,194281
+593491,29-07-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+593491,29-07-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+593491,29-07-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,0,1,NA,Both,0,0,194281
+593491,29-07-14,Intensive Care Basic,NA,1,1,NA,Both,0,0,194281
+593491,29-07-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+593491,29-07-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+598657,02-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+598657,02-05-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+602701,22-06-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+602701,22-06-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+602701,22-06-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+604027,16-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+604027,16-02-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+605374,07-05-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+605374,07-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+605374,07-05-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+605374,07-05-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+605374,07-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+605374,07-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+605374,07-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+605374,07-05-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+605374,07-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+605374,07-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+605374,07-05-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+605374,07-05-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+607945,06-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+607945,06-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+607945,06-03-14,High Dependency,NA,0,0,1,Invasive only,0,0,194281
+607945,06-03-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+607945,06-03-14,Intensive Care Basic,NA,0,1,1,Invasive only,0,0,194281
+607945,06-03-14,Intensive Care Basic,NA,1,1,1,Invasive only,0,0,194281
+608065,05-08-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+608065,05-08-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+608065,05-08-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+608065,05-08-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+608065,05-08-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+608065,05-08-14,High Dependency Advanced,NA,0,0,NA,Non-invasive only,0,0,194281
+615542,16-09-14,Enhanced Care,NA,0,0,2,Invasive only,0,0,194281
+619048,23-11-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+619048,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+619048,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+619048,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+619048,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+619048,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+619048,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+619048,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+619048,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+619048,23-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+619283,21-07-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+619283,21-07-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+626688,20-09-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+626688,20-09-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+626688,20-09-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+626688,20-09-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+626688,20-09-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+626688,20-09-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+626688,20-09-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+626688,20-09-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+626688,20-09-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+626688,20-09-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+633751,12-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+633751,12-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+633751,12-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+633751,12-02-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+633751,12-02-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+633751,12-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+633751,12-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+633751,12-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+633751,12-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+633751,12-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+633751,12-02-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+633893,28-12-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+633893,28-12-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+633893,28-12-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+633893,28-12-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+633893,28-12-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+633893,28-12-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+633893,28-12-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+633893,28-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+633893,28-12-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+633893,28-12-14,Enhanced Care,NA,0,0,NA,Invasive only,0,0,194281
+633893,28-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+633893,28-12-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+633893,28-12-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+633893,28-12-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+634234,21-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+634234,21-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+634234,21-12-14,High Dependency,NA,0,0,NA,Invasive only,0,0,194281
+634234,21-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+634234,21-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+634234,21-12-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+634234,21-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+634234,21-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+634234,21-12-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+634234,21-12-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+634234,21-12-14,Intensive Care Advanced,NA,1,0,NA,Invasive only,0,0,194281
+634234,21-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+634234,21-12-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+644402,17-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+644402,17-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+644402,17-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+644402,17-11-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+646242,29-10-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+646242,29-10-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+646242,29-10-14,High Dependency,NA,0,0,1,Both,0,0,194281
+646242,29-10-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+646242,29-10-14,High Dependency,NA,0,0,1,Both,0,0,194281
+646242,29-10-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+651590,26-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+651590,26-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+651590,26-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+651590,26-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+651590,26-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+651590,26-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+651590,26-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+651590,26-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Basic,NA,0,0,NA,Both,0,0,194281
+652424,30-06-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Basic,NA,0,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+652424,30-06-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+652424,30-06-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+652424,30-06-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Advanced Enhanced,NA,1,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Basic Enhanced,NA,1,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Basic,NA,0,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+652424,30-06-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Advanced Enhanced,NA,1,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Advanced,NA,1,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+652424,30-06-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+652424,30-06-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+657104,08-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+657104,08-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+657104,08-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+657104,08-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+657104,08-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+657104,08-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+657104,08-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+657104,08-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+657104,08-10-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+657104,08-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+657104,08-10-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+657104,08-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+657104,08-10-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+657104,08-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+657104,08-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+657104,08-10-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+657104,08-10-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+657104,08-10-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+657104,08-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+657104,08-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+657104,08-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+661876,22-03-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+661876,22-03-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+661876,22-03-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+661876,22-03-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+661876,22-03-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+661876,22-03-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+665550,23-02-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+665550,23-02-14,High Dependency Advanced,NA,0,0,NA,Invasive only,0,0,194281
+665550,23-02-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+675303,02-10-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+675303,02-10-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+675303,02-10-14,High Dependency,NA,0,0,NA,Neither,0,0,194281
+687348,24-09-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+687348,24-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+687348,24-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+687348,24-09-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+687348,24-09-14,Enhanced Care,NA,0,0,NA,Both,0,0,194281
+687348,24-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+687348,24-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+687348,24-09-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+687348,24-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+687348,24-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+687348,24-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+687348,24-09-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+687348,24-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+687348,24-09-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+687348,24-09-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+692191,09-05-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+692191,09-05-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+692191,09-05-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+693151,01-05-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+693151,01-05-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+693151,01-05-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+693151,01-05-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+693151,01-05-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+693151,01-05-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+693151,01-05-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+693151,01-05-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+693151,01-05-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+693151,01-05-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+693151,01-05-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+693151,01-05-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+693151,01-05-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic Enhanced,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+693958,06-10-14,Intensive Care Basic,NA,1,0,NA,Invasive only,0,0,194281
+703631,11-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+703631,11-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+703631,11-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+703631,11-12-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+703631,11-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+703631,11-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+703631,11-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+703631,11-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+711618,11-02-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+711618,11-02-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+712301,04-03-14,High Dependency,NA,0,0,2,Neither,0,0,194281
+712301,04-03-14,High Dependency,NA,0,0,2,Neither,0,0,194281
+718075,21-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+718075,21-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+718075,21-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+718075,21-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+718075,21-10-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+718075,21-10-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+718075,21-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+718075,21-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+718075,21-10-14,High Dependency,NA,0,0,NA,Both,0,0,194281
+718075,21-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+718075,21-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+718075,21-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+718075,21-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+718075,21-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+718075,21-10-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+718075,21-10-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+720070,14-12-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+720070,14-12-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,High Dependency Advanced,NA,0,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,0,1,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+720070,14-12-14,Intensive Care Basic,NA,1,0,1,Both,0,0,194281
+725464,24-12-14,High Dependency Advanced,NA,0,0,NA,Neither,0,0,194281
+739391,14-05-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+739391,14-05-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+739391,14-05-14,Enhanced Care,NA,0,0,NA,Neither,0,0,194281
+741497,20-01-14,Enhanced Care,NA,0,0,1,Invasive only,0,0,194281
+741497,20-01-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+741497,20-01-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+741497,20-01-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+741497,20-01-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+741497,20-01-14,High Dependency Advanced,NA,0,0,1,Invasive only,0,0,194281
+741497,20-01-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+741497,20-01-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+741497,20-01-14,Intensive Care Basic Enhanced,NA,1,0,1,Invasive only,0,0,194281
+747933,10-07-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+747933,10-07-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+747933,10-07-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+747933,10-07-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+748407,22-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+748407,22-12-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+748407,22-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+748407,22-12-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+748407,22-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+748407,22-12-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+748407,22-12-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+748407,22-12-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+748407,22-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+748407,22-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+748407,22-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+748407,22-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+748407,22-12-14,Intensive Care Basic,NA,1,0,NA,Both,0,0,194281
+748407,22-12-14,High Dependency Advanced,NA,0,0,NA,Both,0,0,194281
+766888,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+766888,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+766888,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+766888,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+766888,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+766888,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+766888,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+766888,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+766888,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+766888,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+766888,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+766888,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+766888,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+766888,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+766888,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281
+766888,02-07-14,Intensive Care Basic,NA,1,0,1,Invasive only,0,0,194281

@@ -1,0 +1,45 @@
+{
+  "layers": [
+    {
+      "data": {"url": "data/stocks.csv","formatType": "csv"},
+      "transform": {
+        "lookup": {
+          "index": {
+            "selection": "indexPt",
+            "keys": ["symbol"]
+          }
+        },
+        "calculate": [{
+          "field": "indexed_price",
+          "expr": "datum.index.price > 0 ? (datum.price - datum.index.price)/datum.index.price : 0"
+        }]
+      },
+      "select": {
+        "indexPt": {
+          "type": "point",
+          "on": "mousemove",
+          "project": {"fields": ["date"]},
+          "nearest": true
+        }
+      },
+      "mark": "line",
+      "encoding": {
+        "x": {"field": "date","type": "temporal", "axis": {"ticks": 10, "format": "%b %Y", "labelAngle": 0}},
+        "y": {"field": "indexed_price","type": "quantitative", "axis": {"format": "%"}},
+        "color": {"field": "symbol","type": "nominal"}
+      }
+    },
+    {
+      "data": {"url": "data/stocks.csv","formatType": "csv"},
+      "mark": "rule",
+      "encoding": {
+        "x": {
+          "selection": "indexPt.date",
+          "type": "temporal"
+        },
+        "color": {"value": "red"}
+      }
+    }
+  ],
+  "config": {"cell": {"width": 500, "height": 300}, "background": "white"}
+}

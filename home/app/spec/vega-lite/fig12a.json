@@ -1,0 +1,41 @@
+{
+  "vconcat": [
+    {
+      "data": {"url": "data/sp500.csv","formatType": "csv"},
+      "select": {
+        "region": {
+          "type": "interval",
+          "project": {"channels": ["x"]}
+        }
+      },
+      "mark": "area",
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal",
+          "axis": {"format": "%Y"}
+        },
+        "y": {
+          "field": "price",
+          "type": "quantitative",
+          "axis": {"ticks": 3,"grid": false}
+        }
+      },
+      "config": {"cell": {"height": 70}}
+    },
+    {
+      "data": {"url": "data/sp500.csv","formatType": "csv"},
+      "mark": "area",
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal",
+          "scale": {"domain": {"selection": "region"}},
+          "axis": {"format": "","title": 0}
+        },
+        "y": {"field": "price","type": "quantitative"}
+      }
+    }
+  ],
+  "config": {"cell": {"width": 500},"axis": {"labelAngle": 0}}
+}

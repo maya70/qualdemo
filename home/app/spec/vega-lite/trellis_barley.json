@@ -1,0 +1,18 @@
+{
+  "data": {"url": "data/barley.json"},
+  "facet": {
+    "row": {"field": "site", "type": "ordinal"}
+  },
+  "spec": {
+    "mark": "point",
+    "encoding": {
+      "x": {"aggregate": "mean", "field": "yield", "type": "quantitative"},
+      "y": {
+        "field": "variety", "type": "ordinal",
+        "sort": {"field": "yield","op": "mean"},
+        "scale": {"bandSize": 12}
+      },
+      "color": {"field": "year", "type": "nominal"}
+    }
+  }
+}

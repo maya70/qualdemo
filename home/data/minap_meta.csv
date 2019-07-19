@@ -1,0 +1,151 @@
+fieldName,fieldType
+1.01 Hospital identifier,n
+1.02 Patient case record number,o
+1.03 NHS number,o
+NHS Number Verification Status (v9.1 dataset),n
+Number of Previous admissions (ACS Patients),q
+Delay from Symptom Onset to Call For Help,q
+Delay from Call for Help to Emergency Services Arrival,q
+Delay from Call for Help to Arrival in Hospital,q
+Delay from Call for Help to Reperfusion Treatment,q
+Delay from Arrival in Hospital to Reperfusion Treatment,q
+Delay from Symptom Onset to Reperfusion Treatment,q
+Delay from Admission to First Hospital to PPCI (Interventional Audit),q
+Record Created By,n
+ACPN Nurse,n
+Signed-off ?,n
+GPFH Code,n
+Date/Time of First ECG,t
+Time from Arrival at Hospital to First ECG,t
+Grace Score,q
+Date/Time left referring hospital,t
+Patient District Number,n
+1.04 Patient surname,n
+1.05 Patient forename,n
+1.06 Patient date of birth,t
+1.07 Patient gender,n
+1.09 Patient admin status,n
+1.10 Patient postcode,o
+1.11 GP/ PCT code,n
+1.12 Patient ethnic group,n
+2.01 Initial diagnosis,n
+2.02 Method of admission,n
+2.03 ECG determining treatment,n
+2.04 Where was aspirin/other antiplatelet given?,n
+2.05 Previous AMI,n
+2.06 Previous angina,n
+2.07 Hypertension,n
+2.08 Hypercholesterolaemia,n
+2.09 Peripheral vascular disease,n
+2.10 Cerebrovascular disease,n
+2.11 Asthma or COPD,n
+2.12 Chronic renal failure,n
+2.13 Heart failure,n
+2.14 Cardiac enzymes/markers raised?,n
+2.15 Serum cholesterol,q
+2.16 Smoking status,n
+2.17 Diabetes,n
+2.18 Previous PCI,n
+2.19 Previous CABG,n
+2.20 Systolic BP,q
+2.21 Heart rate,q
+2.22 Admitting consultant,n
+2.23 Place first 12 lead ECG performed,n
+2.24 Beta blocker use,n
+2.25 ACEI or ARB use,n
+2.26 Statin use,n
+2.28 Serum glucose,q
+2.29 Height,q
+2.30 Weight,q
+2.31 Left ventricular ejection fraction,n
+2.32 Family history of CHD,n
+2.33 Cardiological care during admission,n
+2.34  Creatinine,q
+2.35 Haemoglobin,q
+2.36 Site of infarction,n
+2.37  ECG QRS complex duration,n
+2.38 Thienopyridine inhibitor use,n
+Admission Method (V9.1 Dataset),n
+Patient location at time of STEMI,n
+Killip Class (v9.1 Dataset),n
+2.42 Stress Echo (v10.3 Dataset),n
+3.01 Date/time of symptom onset,t
+3.02 Date/time of call for help,t
+3.03 Date/time of arrival of first responder,t
+3.04 Date/time of arrival of ambulance,t
+3.05 Ambulance Job Number,n
+3.06 Date/time arrival at hospital,t
+3.08 Reason reperfusion treatment not given,n
+3.09 Date/time of reperfusion treatment,t
+3.10 Delay before treatment,n
+3.11 Where was initial reperfusion treatment given?,n
+3.13 Cardiac arrest date/time - FIRST ARREST ONLY,t
+3.14 Cardiac arrest location,n
+3.15 Arrest presenting rhythm,n
+3.16 Outcome of arrest,n
+3.17 Admission ward,n
+3.19 Peak Troponin,q
+3.20 Unfractionated heparin,n
+3.21 Low molecular weight heparin,n
+3.22 Thienopyridine platelet inhibitor,n
+3.24 IV 2b/3a agent,n
+3.25 IV beta blocker,n
+3.27 Calcium channel blocker,n
+3.28 IV nitrate,n
+3.29 Oral nitrate,n
+3.30 Potassium channel modulator,n
+3.31 Warfarin,n
+3.32 Angiotensin converting enzyme inhibitor or angiotensin receptor blocker (ARB),n
+3.33 Thiazide diuretic,n
+3.34 Loop diuretic,n
+3.36 Thrombolytic drug,n
+3.37 Troponin assay,n
+3.38 Fondaparinux,n
+3.39 Initial reperfusion treatment,n
+3.40 Additional reperfusion treatment,n
+3.41 In patient management of hyperglycaemia/diabetes,n
+3.42 Diabetic therapy at discharge,n
+3.43 Oral beta blocker,n
+3.44 Aldosterone antagonist,n
+3.45 Bivalirudin (v10.3 Dataset),n
+3.46 Date/time of arrival at non interventional hospital,t
+3.47 Assessment at non interventional hospital,n
+3.48 Assessment at interventional centre,n
+3.49 Intended reperfusion procedure,n
+3.5 Procedure performed,n
+3.51 Why was no angiogram performed?,n
+3.52 Why was no intervention performed?,n
+3.53 Date/Time of start of insulin infusion (v10.3 Dataset),t
+4.01 Date of discharge,t
+4.02 Discharge diagnosis,n
+4.03 Bleeding complications,n
+4.04 Death in hospital,n
+4.05 Discharged on beta blocker,n
+4.06 Angiotensin converting enzyme inhibitor or angiotensin receptor blocker,n
+4.07 Discharged on statin,n
+4.08 Discharged on aspirin,n
+4.09 Cardiac rehabilitation,n
+4.10 Exercise test,n
+4.11 Echocardiography,n
+4.12 Radionuclide study,n
+4.13 Coronary angiography,n
+4.14 Coronary intervention,n
+4.15 Date of referral for investigation/intervention,t
+4.16 Discharge destination,n
+4.17 Daycase transfer date,t
+4.18 Local angio date,t
+4.19 Local intervention date,t
+4.20 Interventional centre code,n
+4.21 Referring hospital code,n
+4.22 Patient case record number at referring hospital,n
+4.23 Followed up by,n
+4.24 Reinfarction,n
+4.26 Date of return to referring hospital,t
+4.27 Discharged on a thienopyridine inhibitor,n
+4.28 Discharged on an aldosterone antagonist,n
+4.29 What procedure was performed at the interventional hospital?,n
+4.30 Delay to performance of Angiogram (v10.3 Dataset),n
+4.31 Discharged on TIcagrelor (v10.3 Dataset),n
+4.32 High risk nSTEMI (v10.3 Dataset),n
+5.1 Smoking cessation advice given,n
+5.2 Dietary advice given during this admission,n

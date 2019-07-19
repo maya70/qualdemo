@@ -1,0 +1,42 @@
+{
+  "repeat": {
+    "row": ["Displacement", "Miles_per_Gallon"],
+    "column": ["Horsepower", "Miles_per_Gallon"]
+  },
+  "spec": {
+    "data": {"url": "data/cars.json"},
+    "mark": "circle",
+    "select": {
+      "grid": {
+        "type": "interval",
+        "init": {"scales": true},
+        "translate": "[mousedown[!event.shiftKey], mouseup] > mousemove",
+        "zoom": true
+      },
+      "region": {
+        "type": "interval",
+        "zoom": true,
+        "on": "[mousedown[event.shiftKey], mouseup] > mousemove",
+        "resolve": "union"
+      }
+    },
+    "encoding": {
+      "x": {
+        "field": {"repeat": "column"},
+        "type": "Q",
+        "scale": {"zero": false}
+      },
+      "y": {
+        "field": {"repeat": "row"},
+        "type": "Q",
+        "scale": {"zero": false}
+      },
+      "color": [
+        {"if": "region", "field": "Origin", "type": "nominal"},
+        {"value": "grey"}
+      ],
+      "size": {"value": 100}
+    }
+  },
+  "config": {"mark": {"fillOpacity": 0.5}}
+}
